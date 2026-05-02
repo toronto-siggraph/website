@@ -10,6 +10,4 @@ Coming soon.
 
 We connect creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 
-## Contact
 
-admin@torontosiggraph.org
