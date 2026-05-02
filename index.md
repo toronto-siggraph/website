@@ -1,13 +1,6 @@
 # Toronto ACM SIGGRAPH
 
-Toronto ACM SIGGRAPH is rebuilding its local chapter presence for:
-
-- Computer Graphics  
-- Interactive Media  
-- Animation & VFX  
-- Games  
-- Design & UX  
-- Emerging Technology  
+The official Toronto chapter of ACM SIGGRAPH, connecting professionals in computer graphics, interactive media, and emerging technology.
 
 ## Upcoming Events
 
