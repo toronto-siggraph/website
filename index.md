@@ -25,7 +25,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-placeholder.png" alt="Community partner event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Archiving Machines: From Punch Cards to Platforms</h3>
-    <p><strong>Type:</strong> Community / Partner Event</p>
+    <p><em>Community / Partner Event</em></p>
     <p>Digital Arching expert Dr. Amelia Acker, a world filled with data but cannot access, what it means in an AI world.</p>
     <p>Hosted by Thomas Fisher Rare Book Library</p>
     <p><a href="/events/">View event →</a></p>
@@ -34,7 +34,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-paolo.png" alt="Paolo Granata event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
-    <p><strong>Type:</strong> Community / Partner Event</p>   
+    <p><em>Community / Partner Event</em></p>   
     <p>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</p>
     <p>Hosted by Rotman School of Management.</p>
     <p><a href="/events/paolo-granata-talk/">View event →</a></p>
@@ -43,7 +43,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Toronto's LipDub.ai and SpaceFlux</h3>
-    <p><strong>Type:</strong> Official Toronto SIGGRAPH Event</p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
     <p>Toronto's Lipdub.ai's audio lip synch rendering to any video. Indie Dev Calin Ardelean about making Spaceflux.</p>    
     <p>Hosted by George Brown College</p>
     <p><a href="/events/">View event →</a></p>
