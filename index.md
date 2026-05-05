@@ -28,6 +28,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <p><strong>Archiving Machines: From Punch Cards to Platforms</strong></p>
     <p><strong>Event Type:</strong> Community / Partner Events</p>
     <p>Talk by  Dr. Amelia Acker on her most recent book</p>
+    <p>Hosted by Thomas Fisher Rare Book Library</p>
     <p><a href="/events/">View events →</a></p>
   </div>
 
@@ -44,9 +45,9 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
-    <p><strong>Coming soon</strong></p>
-    <h3>Toronto SIGGRAPH Meetup</h3>
+    <h3>LipDub.ai and SpaceFlux</h3>
     <p><strong>Event Type:</strong> Official Toronto SIGGRAPH Events</p>
+    <p><strong>Coming soon</strong></p>    
     <p>Details coming soon.</p>
     <p><a href="/events/">View events →</a></p>
   </div>
