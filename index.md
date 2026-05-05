@@ -1,12 +1,16 @@
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
 
+  <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
+       style="max-width: 300px; height: auto;">
 
-<nav style"margin: right">
-  <a href="/">Home</a> &nbsp;|&nbsp;
-  <a href="/events/">Events</a> &nbsp;|&nbsp;
-  <a href="/membership/">Membership</a> &nbsp;|&nbsp;
-  <a href="/about/">About</a>
-</nav>
-<img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo" style="max-width: 500px; width: 100%; height: auto; display: block; margin-bottom: 0px;">
+  <nav>
+    <a href="/">Home</a> &nbsp;|&nbsp;
+    <a href="/events/">Events</a> &nbsp;|&nbsp;
+    <a href="/membership/">Membership</a> &nbsp;|&nbsp;
+    <a href="/about/">About</a>
+  </nav>
+
+</div>
 
 # Computer graphics, interactive media, emerging technology.
 
