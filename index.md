@@ -1,3 +1,5 @@
+<img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo" style="max-width: 500px; width: 100%; height: auto; display: block; margin-bottom: 24px;">
+
 # Toronto ACM SIGGRAPH
 
 The official Toronto chapter of ACM SIGGRAPH, connecting professionals in computer graphics, interactive media, and emerging technology.
@@ -9,5 +11,3 @@ Coming soon.
 ## About
 
 We connect creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
-
-
