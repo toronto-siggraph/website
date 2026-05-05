@@ -26,8 +26,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <img src="/images/event-placeholder.png" alt="Community partner event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Archiving Machines: From Punch Cards to Platforms</h3>
     <p><strong>Event Type:</strong> Community / Partner Event</p>
-    <p><strong></strong></p>    
-    <p>Talk by Dr. Amelia Acker about how our world got to be filled with data we create but cannot access</p>
+    <p>Digital archive expert Dr. Amelia Acker talks on how our world got to be filled with data we create but cannot access</p>
     <p>Hosted by Thomas Fisher Rare Book Library</p>
     <p><a href="/events/">View event →</a></p>
   </div>
@@ -36,7 +35,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <img src="/images/event-paolo.png" alt="Paolo Granata event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
     <p><strong>Event Type:</strong> Community / Partner Event</p>   
-    <p>Talk by Dr. Paolo Granata on how human-AI collaboration unlocks creative potential previously unimaginable.</p>
+    <p>Media studies expert Dr. Paolo Granata talks on how human-AI collaboration unlocks creative potential previously unimaginable.</p>
     <p>Hosted by Rotman School of Management.</p>
     <p><a href="/events/paolo-granata-talk/">View event →</a></p>
   </div>
@@ -45,7 +44,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>LipDub.ai and SpaceFlux</h3>
     <p><strong>Event Type:</strong> Official Toronto SIGGRAPH Event</p>
-    <p><strong>Toronto's hot Lipdub.ai show us their new technology to add new audio that lip synchs to any video</strong></p>    
+    <p>Toronto's Lipdub.ai shows audio lip synch rendering to any video. Indie Dev Calin Ardelean talks about making Spaceflux.</p>    
     <p>Hosted by George Brown College</p>
     <p><a href="/events/">View event →</a></p>
   </div>
