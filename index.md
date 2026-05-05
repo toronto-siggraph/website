@@ -1,4 +1,4 @@
-<img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo" style="max-width: 500px; width: 100%; height: auto; display: block; margin-bottom: 24px;">
+<img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo" style="max-width: 500px; width: 100%; height: auto; display: block; margin-bottom: 0px;">
 
 # Computer graphics, interactive media, emerging technology.
 
