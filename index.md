@@ -1,4 +1,9 @@
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo" style="max-width: 500px; width: 100%; height: auto; display: block; margin-bottom: 24px;">
+<style>
+.page-header {
+  display: none;
+}
+</style>
 
 # Toronto ACM SIGGRAPH
 
