@@ -25,11 +25,11 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-placeholder.png" alt="Community partner event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Archiving Machines: From Punch Cards to Platforms</h3>
-    <p><strong>Event Type:</strong> Community / Partner Events</p>
+    <p><strong>Event Type:</strong> Community / Partner Event</p>
     <p><strong></strong></p>    
     <p>Talk by  Dr. Amelia Acker on her most recent book</p>
     <p>Hosted by Thomas Fisher Rare Book Library</p>
-    <p><a href="/events/">View events →</a></p>
+    <p><a href="/events/">View event →</a></p>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
@@ -44,7 +44,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>LipDub.ai and SpaceFlux</h3>
-    <p><strong>Event Type:</strong> Official Toronto SIGGRAPH Events</p>
+    <p><strong>Event Type:</strong> Official Toronto SIGGRAPH Event</p>
     <p><strong>Coming soon</strong></p>    
     <p>Details coming soon.</p>
     <p><a href="/events/">View events →</a></p>
