@@ -6,7 +6,7 @@
 </nav>
 
   <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
-       style="max-width: 300px; height: auto;">
+       style="max-width: 600px; height: auto;">
 
 # Computer graphics, interactive media, emerging technology.
 
