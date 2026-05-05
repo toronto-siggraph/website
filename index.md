@@ -57,7 +57,10 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
 
 </div>
 
-[View all events →](/events/)
+<div style="padding-top: 16px;">
+  <a href="/events/">View all events →</a>
+</div>
+
 
 ## About
 
