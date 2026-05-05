@@ -9,7 +9,8 @@
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
 <h1 style="font-size: 26px; line-height: 1.2; margin-top: 0;">
-  <strong>Computer graphics, interactive media, emerging technology — community.</strong>
+  <strong>Computer graphics. Interactive media. Emerging technology.</strong><br>
+  Community.
 </h1>
 
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
