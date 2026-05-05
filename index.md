@@ -35,7 +35,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <img src="/images/event-paolo.png" alt="Paolo Granata event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
     <p><strong>Event Type:</strong> Community / Partner Event</p>   
-    <p>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creative potential previously unimaginable.</p>
+    <p>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</p>
     <p>Hosted by Rotman School of Management.</p>
     <p><a href="/events/paolo-granata-talk/">View event →</a></p>
   </div>
