@@ -6,7 +6,7 @@
 }
 </style>
 
-# Connecting Toronto’s computer graphics, interactive media, and emerging technology community.
+# Computer graphics, interactive media, emerging technology.
 
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 
