@@ -7,10 +7,14 @@
 
 The official Toronto chapter of ACM SIGGRAPH, connecting professionals in computer graphics, interactive media, and emerging technology.
 
-#Events
+# Next Event
 
 Coming soon.
 
+## Past Event
+
+
+[All events](https://torontosiggraph.org/events/)
 ## About
 
 We connect creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
