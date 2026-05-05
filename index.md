@@ -5,10 +5,12 @@
   <a href="/about/">About</a>
 </nav>
 
-  <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
-       style="max-width: 600px; height: auto;">
+<img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
+     style="max-width: 520px; width: 100%; height: auto; display: block; margin: 24px auto;">
 
-# Computer graphics, interactive media, emerging technology.
+<h1 style="font-size: 28px; line-height: 1.2; margin-top: 16px;">
+  Computer graphics, interactive media, emerging technology.
+</h1>
 
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 
