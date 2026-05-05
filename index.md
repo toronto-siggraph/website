@@ -5,9 +5,11 @@
 }
 </style>
 
+# Computer graphics, interactive media, and emerging technology.
+
 The official Toronto chapter of ACM SIGGRAPH, connecting professionals in computer graphics, interactive media, and emerging technology.
 
-# Next Event
+## Next Event
 
 Coming soon.
 
