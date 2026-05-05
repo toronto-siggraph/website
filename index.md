@@ -45,7 +45,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
 
 </div>
 
-[View all events](/events/)
+[View all events →](/events/)
 
 ## About
 
