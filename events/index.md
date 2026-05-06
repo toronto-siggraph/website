@@ -27,9 +27,9 @@
 
 <div style="display: flex; flex-direction: column; gap: 24px; margin-top: 16px;">
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
     <img src="/images/event-amelia-acker.png" alt="Archiving Machines event"
-         style="width: 260px; max-width: 100%; height: auto; border-radius: 6px;">
+         style="width: 320px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px;">
     <div style="flex: 1; min-width: 260px;">
       <p style="margin-top: 0;"><strong>Community / Partner Event</strong></p>
       <h3 style="font-size: 24px; line-height: 1.2; margin: 0 0 8px 0;">
@@ -42,9 +42,9 @@
     </div>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
     <img src="/images/event-paolo.png" alt="Paolo Granata event"
-         style="width: 260px; max-width: 100%; height: auto; border-radius: 6px;">
+         style="width: 320px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px;">
     <div style="flex: 1; min-width: 260px;">
       <p style="margin-top: 0;"><strong>Community / Partner Event</strong></p>
       <h3 style="font-size: 24px; line-height: 1.2; margin: 0 0 8px 0;">
@@ -57,9 +57,9 @@
     </div>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event"
-         style="width: 260px; max-width: 100%; height: auto; border-radius: 6px;">
+         style="width: 320px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px;">
     <div style="flex: 1; min-width: 260px;">
       <p style="margin-top: 0;"><strong>Official Toronto SIGGRAPH Event</strong></p>
       <h3 style="font-size: 24px; line-height: 1.2; margin: 0 0 8px 0;">
