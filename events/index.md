@@ -22,42 +22,81 @@ Upcoming talks, screenings, workshops, and community collaborations will be post
 
 ## Past Events
 
-<div style="display: grid; grid-template-columns: 1fr; gap: 24px; margin-top: 16px;">
+<div style="display: flex; flex-direction: column; gap: 28px; margin-top: 16px;">
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
-    <img src="/images/event-paolo.png" alt="Paolo Granata event"
-         style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin: 8px 0 12px 0;">
-    <p><em>Community / Partner Event</em></p>
-    <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
-    <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
-    <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
-    <p>Hosted by Rotman School of Management.</p>
-    <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+  <div style="border: 1px solid #ddd; border-radius: 28px; padding: 24px;">
+    <h2 style="font-size: 34px; line-height: 1.1; margin: 0 0 16px 0;">
+      Generative Knowledge: Think, Learn and Create with AI
+    </h2>
+
+    <div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+      <img src="/images/event-paolo.png" alt="Paolo Granata event"
+           style="width: 360px; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
+
+      <div style="flex: 1; min-width: 280px;">
+        <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
+
+        <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
+
+        <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
+
+        <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
+
+        <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+
+        <p><strong>Hosted by:</strong> Rotman School of Management</p>
+      </div>
+    </div>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
-    <img src="/images/event-paolo.png" alt="Paolo Granata event"
-         style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin: 8px 0 12px 0;">
-    <p><em>Community / Partner Event</em></p>
-    <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
-    <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
-    <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
-    <p>Hosted by Rotman School of Management.</p>
-    <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+  <div style="border: 1px solid #ddd; border-radius: 28px; padding: 24px;">
+    <h2 style="font-size: 34px; line-height: 1.1; margin: 0 0 16px 0;">
+      Generative Knowledge: Think, Learn and Create with AI
+    </h2>
+
+    <div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+      <img src="/images/event-paolo.png" alt="Paolo Granata event"
+           style="width: 360px; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
+
+      <div style="flex: 1; min-width: 280px;">
+        <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
+
+        <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
+
+        <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
+
+        <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
+
+        <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+
+        <p><strong>Hosted by:</strong> Rotman School of Management</p>
+      </div>
+    </div>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px;">
-    <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
-    <img src="/images/event-paolo.png" alt="Paolo Granata event"
-         style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin: 8px 0 12px 0;">
-    <p><em>Community / Partner Event</em></p>
-    <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
-    <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
-    <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
-    <p>Hosted by Rotman School of Management.</p>
-    <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+  <div style="border: 1px solid #ddd; border-radius: 28px; padding: 24px;">
+    <h2 style="font-size: 34px; line-height: 1.1; margin: 0 0 16px 0;">
+      Generative Knowledge: Think, Learn and Create with AI
+    </h2>
+
+    <div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+      <img src="/images/event-paolo.png" alt="Paolo Granata event"
+           style="width: 360px; max-width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
+
+      <div style="flex: 1; min-width: 280px;">
+        <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
+
+        <p><strong>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</strong></p>
+
+        <p>Media studies expert Dr. Paolo Granata discusses how human-AI collaboration can unlock new forms of creativity, learning, and knowledge creation.</p>
+
+        <p>Dr. Granata is a leading voice in media innovation, exploring how technology reshapes thinking, learning, and creative practice.</p>
+
+        <p><a href="/events/paolo-granata-talk/">View event →</a></p>
+
+        <p><strong>Hosted by:</strong> Rotman School of Management</p>
+      </div>
+    </div>
   </div>
 
 </div>
