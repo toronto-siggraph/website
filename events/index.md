@@ -77,7 +77,7 @@ Coming soon.
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
 
     <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/event-paolo.png"
+      <img src="/images/toronto-siggraph-paolo-granata-generative-knowledge.png"
            alt="Paolo Granata event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
