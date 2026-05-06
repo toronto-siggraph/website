@@ -26,7 +26,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-    <img src="/images/toronto-siggraph-paolo-granata-generative-knowledge.png" alt="Community partner event"
+    <img src="/images/toronto-siggraph-amelia-acker-archiving-machines-punch-cards-ai.png" alt="Community partner event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
     <h3>Archiving Machines: From Punch Cards to Platforms, AI</h3>
     <p><em>Community / Partner Event</em></p>
