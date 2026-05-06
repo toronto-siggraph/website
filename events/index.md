@@ -131,7 +131,7 @@ Coming soon.
       <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
 
       <p><strong>
-        Toronto's Lipdub.ai's audio lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.
+        Toronto's Lipdub.ai's audio AI/ML lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.
       </strong></p>
 
       <p>
