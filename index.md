@@ -27,7 +27,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/event-placeholder.png" alt="Community partner event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
-    <h3>Archiving Machines: From Punch Cards to Platforms</h3>
+    <h3>Archiving Machines: From Punch Cards to Platforms, AI</h3>
     <p><em>Community / Partner Event</em></p>
     <p>Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.</p>
     <p>Hosted by Thomas Fisher Rare Book Library</p>
