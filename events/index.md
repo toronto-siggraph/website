@@ -32,8 +32,8 @@ Coming soon.
 
     <!-- 16:9 image -->
     <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/event-paolo.png"
-           alt="Paolo Granata event"
+      <img src="/images/toronto-siggraph-amelia-acker-archiving-machines-punch-cards-ai.pn"
+           alt="Amelia Acker event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
