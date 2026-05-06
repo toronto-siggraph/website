@@ -26,7 +26,7 @@ Coming soon.
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 36px; line-height: 1.1; margin: 0 0 20px 0;">
-    Generative Knowledge: Think, Learn and Create with AI
+    Archiving Machines: From Punch Cards to Platform
   </h2>
 
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
@@ -44,7 +44,7 @@ Coming soon.
       <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
 
       <p><strong>
-        Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.
+        Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.
       </strong></p>
 
       <p>
@@ -58,7 +58,7 @@ Coming soon.
       </p>
 
       <p>
-        <strong>Hosted by:</strong> Rotman School of Management
+        <strong>Hosted by:</strong> Thomas Fisher Rare Book Library
       </p>
 
     </div>
@@ -116,7 +116,7 @@ Coming soon.
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 36px; line-height: 1.1; margin: 0 0 20px 0;">
-    Generative Knowledge: Think, Learn and Create with AI
+    Toronto's LipDub.ai and SpaceFlux
   </h2>
 
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
@@ -132,7 +132,7 @@ Coming soon.
       <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
 
       <p><strong>
-        Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.
+        Toronto's Lipdub.ai's audio lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.
       </strong></p>
 
       <p>
