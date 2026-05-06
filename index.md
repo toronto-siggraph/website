@@ -51,7 +51,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <img src="/images/event-placeholder.png" alt="Toronto SIGGRAPH event" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px;">
     <h3>Toronto's LipDub.ai and SpaceFlux</h3>
     <p><em>Official Toronto SIGGRAPH Event</em></p>
-    <p>Toronto's Lipdub.ai's audio lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.</p>    
+    <p>Toronto's Lipdub.ai's audio AI/ML lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.</p>    
     <p>Hosted by George Brown College</p>
     <div style="margin-top: auto;">
       <a href="/events/lip-dub-spaceflux/">View event →</a>
