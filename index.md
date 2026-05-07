@@ -17,7 +17,7 @@
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 </p>
 
-<h2>Next meetups</h2>
+<h2>Next Meetups</h2>
 
 <!-- COMING SOON CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
@@ -32,7 +32,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
 </div>
 
-<h2>Recent meetups</h2>
+<h2>Recent Meetups</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
