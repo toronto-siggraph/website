@@ -21,7 +21,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
-    Archiving Machines: From Punch Cards to Platform, AI
+    Still rendering, next event coming soon ...
   </h2>
 
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
