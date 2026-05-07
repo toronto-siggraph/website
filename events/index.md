@@ -121,7 +121,7 @@ Coming soon.
 
     <div style="flex: 0 0 420px; max-width: 100%;">
       <img src="/images/toronto-siggraph-matt-panousis-lipdub-lipsynch-video-ai.png"
-           alt="Paolo Granata event"
+           alt="LipDub.ai event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
@@ -130,7 +130,7 @@ Coming soon.
       <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
 
       <p><strong>
-        Toronto's Lipdub.ai's audio AI/ML lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.
+        Toronto's LipDub.ai's audio AI/ML lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.
       </strong></p>
 
       <p>
