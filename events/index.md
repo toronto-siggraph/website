@@ -161,7 +161,7 @@ Coming soon.
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
 
     <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/toronto-siggraph-holiday-gathering-2025.pngg"
+      <img src="/images/toronto-siggraph-holiday-gathering-2025.png"
            alt="Holiday Gathering 2025"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
