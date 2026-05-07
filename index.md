@@ -9,8 +9,9 @@
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
 <h1 style="font-size: 28px; line-height: 1.2; margin-top: 0;">
-  <strong>Computer graphics. Interactive media. Emerging technology.</strong><br>
-  Community.
+  <strong>COMPUTER GRAPHICS. INTERACTIVE MEDIA. EMERGING TECHNOLOGY.<br>
+  COMMUNITY.
+    </strong>
 </h1>
 
 <p>
