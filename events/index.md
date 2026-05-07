@@ -133,7 +133,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 <!-- CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
-  <h2 style="font-size: 36px; line-height: 1.1; margin: 0 0 20px 0;">
+  <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
     Toronto SIGGRAPH Community Holiday Gathering 2025
   </h2>
 
