@@ -40,6 +40,11 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
         Update coming soon for next event.
       </strong></p>
 
+      <p><strong>
+        Planning in progress — details will be announced shortly..
+      </strong></p>
+      <p>
+
 
     </div>
 
