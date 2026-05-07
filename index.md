@@ -30,7 +30,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <div style="flex: 0 0 420px; max-width: 100%;">
       <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Toronto SIGGRAPH coming soon even"
+           alt="Toronto SIGGRAPH coming soon event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
@@ -39,6 +39,10 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
       <p><strong>
         Update coming soon for next meetup.
+      </strong></p>
+
+      <p><strong>
+        Planning in progress — details will be announced shortly.
       </strong></p>
 
 
