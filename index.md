@@ -13,47 +13,26 @@
   Community.
 </h1>
 
+<p>
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
+</p>
 
-## Next Event
+<h2>Next Event</h2>
 
-<!-- CARD -->
+<!-- COMING SOON CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
     Still rendering, next event coming soon ...
   </h2>
 
-  <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
+  <img src="/images/toronto-siggraph-coming-soon-venue.png"
+       alt="Toronto SIGGRAPH coming soon event"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd; border-radius: 8px; display: block;">
 
-    <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Amelia Acker event"
-           style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
-    </div>
-
-    <div style="flex: 1; min-width: 280px;">
-      <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
-
-      <p><strong>
-        Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.
-      </strong></p>
-
-      <p>2 sentence description Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.</p>
-
-      <p>
-        2 sentence bio ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
-        <br>
-        [YouTube or website link]
-      </p>
-
-      <p><strong>Hosted by:</strong> Thomas Fisher Rare Book Library</p>
-    </div>
-
-  </div>
 </div>
 
-## Recent Events
+<h2>Recent Events</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
@@ -93,20 +72,17 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
     </div>
   </div>
 
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-    <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH event"
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH holiday gathering"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
     <h3>Toronto SIGGRAPH Community Holiday Gathering 2025</h3>
-<p><em>Official Toronto SIGGRAPH Event</em></p>
-<p>End-of-year gathering bringing together Toronto’s computer graphics, VFX, and interactive media community.</p>
-<p>Hosted by Toronto ACM SIGGRAPH</p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
+    <p>End-of-year gathering bringing together Toronto’s computer graphics, VFX, and interactive media community.</p>
+    <p>Hosted by Toronto ACM SIGGRAPH</p>
     <div style="margin-top: auto;">
-      <a href="/events/lip-dub-spaceflux/">View event →</a>
+      <a href="/events/holiday-gathering-2025/">View event →</a>
     </div>
   </div>
-  
-
-  
 
 </div>
 
@@ -114,6 +90,8 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <a href="/events/">View all events →</a>
 </div>
 
-## About
+<h2>About</h2>
 
+<p>
 Toronto ACM SIGGRAPH is part of the global ACM SIGGRAPH community, supporting people working in computer graphics, interactive media, animation, visualization, digital art, games, VFX, and emerging technology.
+</p>
