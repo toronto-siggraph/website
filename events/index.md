@@ -16,7 +16,7 @@
 Toronto ACM SIGGRAPH events bring together people working in computer graphics, interactive media, animation, visualization, games, VFX, digital art, and emerging technology.
 </p>
 
-<h2>Upcoming Meetups</h2>
+<h2>Upcoming Meetup</h2>
 
 <!-- COMING SOON CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
