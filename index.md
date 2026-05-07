@@ -27,7 +27,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
 
     <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/toronto-siggraph-coming-soon-venue.pngg"
+      <img src="/images/toronto-siggraph-coming-soon-venue.png"
            alt="Amelia Acker event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
