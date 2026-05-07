@@ -64,7 +64,7 @@ Stay tuned for upcoming events and collaborations across Toronto’s digital med
     <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
-    <h3>Toronto SIGGRAPH Community Holiday Gathering</h3>
+    <h3>Toronto SIGGRAPH Community Holiday Gathering 2025</h3>
 <p><em>Official Toronto SIGGRAPH Event</em></p>
 <p>End-of-year gathering bringing together Toronto’s computer graphics, VFX, and interactive media community.</p>
 <p>Hosted by Toronto ACM SIGGRAPH</p>
