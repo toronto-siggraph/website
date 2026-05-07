@@ -154,7 +154,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
       <p>Join us at FreePlay Toronto Retro Arcade Bar.</p>
 
-      <p><strong>Hosted by:</strong>FreePlay Toronto Retro Arcade Bar</p>
+      <p><strong>Hosted by:</strong> FreePlay Toronto Retro Arcade Bar</p>
     </div>
 
   </div>
