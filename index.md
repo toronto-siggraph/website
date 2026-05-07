@@ -17,9 +17,41 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
 ## Next Event
 
-Coming soon.
+<!-- CARD -->
+<div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
-Stay tuned for upcoming events and collaborations across Toronto’s digital media and technology community.
+  <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
+    Archiving Machines: From Punch Cards to Platform, AI
+  </h2>
+
+  <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
+
+    <div style="flex: 0 0 420px; max-width: 100%;">
+      <img src="/images/toronto-siggraph-amelia-acker-archiving-machines-punch-cards-ai.png"
+           alt="Amelia Acker event"
+           style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
+    </div>
+
+    <div style="flex: 1; min-width: 280px;">
+      <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
+
+      <p><strong>
+        Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.
+      </strong></p>
+
+      <p>2 sentence description Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.</p>
+
+      <p>
+        2 sentence bio ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
+        <br>
+        [YouTube or website link]
+      </p>
+
+      <p><strong>Hosted by:</strong> Thomas Fisher Rare Book Library</p>
+    </div>
+
+  </div>
+</div>
 
 ## Recent Events
 
