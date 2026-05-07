@@ -16,47 +16,24 @@
 Toronto ACM SIGGRAPH events bring together people working in computer graphics, interactive media, animation, visualization, games, VFX, digital art, and emerging technology.
 </p>
 
-<h2>Upcoming Events</h2>
+<h2>Next Events</h2>
 
-<p>Coming soon.</p>
-
-<h2>Past Events</h2>
-
-<!-- CARD -->
+<!-- COMING SOON CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
-    Stay tuned as we are confirming our next event ...
+    Still rendering ...
   </h2>
 
-  <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
+  <img src="/images/toronto-siggraph-coming-soon-venue.png"
+       alt="Toronto SIGGRAPH coming soon event"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd; border-radius: 8px; display: block;">
 
-    <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Amelia Acker event"
-           style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
-    </div>
-
-    <div style="flex: 1; min-width: 280px;">
-      <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
-
-      <p><strong>
-        Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.
-      </strong></p>
-
-      <p>2 sentence description Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.</p>
-
-      <p>
-        2 sentence bio ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
-        <br>
-        [YouTube or website link]
-      </p>
-
-      <p><strong>Hosted by:</strong> Thomas Fisher Rare Book Library</p>
-    </div>
-
-  </div>
 </div>
+
+<h2>Past Events</h2>
+
+
 
 <!-- CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
