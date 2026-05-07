@@ -17,7 +17,7 @@
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 </p>
 
-<h2>Next Meetups</h2>
+<h2>Next Meetup</h2>
 
 <!-- COMING SOON CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
