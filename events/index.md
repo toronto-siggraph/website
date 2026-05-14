@@ -83,7 +83,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
         [YouTube or website link]
       </p>
 
-      <p><strong>Hosted by:</strong> Rotman School of Management</p>
+      <p><strong>Hosted by:</strong> Thomas Fisher Rare Book Library</p>
     </div>
 
   </div>
