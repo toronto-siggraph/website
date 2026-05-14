@@ -90,6 +90,8 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 </div>
+. <!-- END CARD -->
+
 
 <!-- CARD -->
 <div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
