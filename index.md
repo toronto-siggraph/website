@@ -8,10 +8,6 @@
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
-<h1 style="font-size: 28px; line-height: 1.2; margin-top: 0;">
-  <strong>Events</strong>
-</h1>
-
 <p>
 Toronto ACM SIGGRAPH events bring together people working in computer graphics, interactive media, animation, visualization, games, VFX, digital art, and emerging technology.
 </p>
