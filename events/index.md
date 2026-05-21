@@ -67,20 +67,20 @@
   <div class="logo-marquee-track">
 
     <!-- First set -->
-    <img src="/images/logo-placeholder-01.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-02.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-03.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-04.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-05.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-06.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
 
     <!-- Duplicate set for seamless scrolling -->
-    <img src="/images/logo-placeholder-01.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-02.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-03.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-04.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-05.png" alt="Industry logo">
-    <img src="/images/logo-placeholder-06.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/scroller_placeholder.png" alt="Industry logo">
 
   </div>
 </div>
