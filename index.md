@@ -49,7 +49,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   </div>
 </div>
 
-<<h2>Recent Meetups</h2>
+<h2>Recent Meetups</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
