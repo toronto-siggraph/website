@@ -8,6 +8,84 @@
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
+<!-- INDUSTRY LOGO MARQUEE -->
+<style>
+  .logo-marquee {
+    overflow: hidden;
+    width: 100%;
+    margin: 20px 0 28px 0;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .logo-marquee-track {
+    display: flex;
+    align-items: center;
+    gap: 36px;
+    width: max-content;
+    animation: logoMarquee 28s linear infinite;
+  }
+
+  .logo-marquee img {
+    height: 38px;
+    width: auto;
+    opacity: 0.6;
+    filter: grayscale(100%);
+    flex-shrink: 0;
+  }
+
+  @keyframes logoMarquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  /* Mobile responsive adjustments */
+  @media (max-width: 640px) {
+
+    .logo-marquee {
+      margin: 16px 0 24px 0;
+      padding: 8px 0;
+    }
+
+    .logo-marquee-track {
+      gap: 24px;
+      animation-duration: 22s;
+    }
+
+    .logo-marquee img {
+      height: 28px;
+    }
+
+  }
+</style>
+
+<div class="logo-marquee">
+  <div class="logo-marquee-track">
+
+    <!-- First set -->
+    <img src="/images/logo-placeholder-01.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-02.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-03.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-04.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-05.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-06.png" alt="Industry logo">
+
+    <!-- Duplicate set for seamless scrolling -->
+    <img src="/images/logo-placeholder-01.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-02.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-03.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-04.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-05.png" alt="Industry logo">
+    <img src="/images/logo-placeholder-06.png" alt="Industry logo">
+
+  </div>
+</div>
+
 <p>
 Toronto ACM SIGGRAPH events bring together people working in computer graphics, interactive media, animation, visualization, games, VFX, digital art, and emerging technology.
 </p>
@@ -25,7 +103,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
     <div style="flex: 0 0 420px; max-width: 100%;">
       <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Toronto SIGGRAPH coming soon even"
+           alt="Toronto SIGGRAPH coming soon event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
@@ -35,7 +113,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
       <p><strong>
         Update coming soon for next meetup.
       </strong></p>
-
 
     </div>
 
@@ -87,49 +164,5 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p><em>Hosted by Rotman School of Management</em></p>
 
   </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-    <img src="/images/toronto-siggraph-matt-panousis-lipdub-lipsynch-video-ai.png" alt="Toronto SIGGRAPH event"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
-
-    <h3>Toronto's LipDub.ai and SpaceFlux</h3>
-
-    <p><em>Official Toronto SIGGRAPH Event</em></p>
-
-    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-      <li><strong>AI-powered lip sync and video workflows</strong></li>
-      <li><strong>Indie game development and creative technology</strong></li>
-    </ul>
-
-    <p>LipDub.ai presented audio-driven AI/ML lip sync rendering for video workflows.</p>
-    <p>Indie developer Calin Ardelean shared the creative and technical process behind SpaceFlux.</p>
-    <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
-
-    <p><em>Hosted by George Brown College</em></p>
-
-  </div>
-
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-    <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH holiday gathering"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
-
-    <h3>Toronto SIGGRAPH Community Holiday Gathering 2025</h3>
-
-    <p><em>Official Toronto SIGGRAPH Event</em></p>
-
-    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-      <li><strong>Toronto computer graphics community gathering</strong></li>
-      <li><strong>VFX, animation, games, and interactive media networking</strong></li>
-    </ul>
-
-    <p>A casual gathering for Toronto’s computer graphics, VFX, animation, and interactive media community.</p>
-    <p>The event brings members together to reconnect, meet new people, and close out the year.</p>
-    <p>For SIGGRAPH members, students, creators, researchers, and local industry professionals.</p>
-
-    <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
-
-  </div>
-
-<!-- END CARD -->
 
 </div>
