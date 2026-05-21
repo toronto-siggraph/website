@@ -56,10 +56,20 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-amelia-acker-archiving-machines-punch-cards-ai.png" alt="Community partner event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
     <h3>Archiving Machines: From Punch Cards to Platforms, AI</h3>
-    <p><em>Community / Partner Event</em></p>
-    <p>Digital Archiving expert Dr. Amelia Acker, a world filled with data but cannot access, issues in an AI age.</p>
-    <p>Hosted by Thomas Fisher Rare Book Library</p>
+
+    <p><em>Community Partner Event</em></p>
+
+    <p>• Digital archiving and access</p>
+    <p>• Data platforms in the AI age</p>
+
+    <p>Dr. Amelia Acker explores how archives, machines, and platforms shape access to knowledge.</p>
+    <p>The talk connects historical data systems to today’s AI-driven information challenges.</p>
+    <p>For researchers, designers, technologists, and digital media practitioners.</p>
+
+    <p><em>Hosted by Thomas Fisher Rare Book Library</em></p>
+
     <div style="margin-top: auto;">
       <a href="/events/amelia-acker-talk/">View event →</a>
     </div>
@@ -68,10 +78,20 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-paolo-granata-generative-knowledge.png" alt="Paolo Granata event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
     <h3>Generative Knowledge: Think, Learn and Create with AI</h3>
-    <p><em>Community / Partner Event</em></p>   
-    <p>Media Studies expert Dr. Paolo Granata, how human-AI collaboration unlocks creativity in a new way.</p>
-    <p>Hosted by Rotman School of Management.</p>
+
+    <p><em>Community Partner Event</em></p>
+
+    <p>• Human-AI collaboration</p>
+    <p>• Creativity, learning, and media</p>
+
+    <p>Dr. Paolo Granata examines how AI is changing the way people think, learn, and create.</p>
+    <p>The session looks at creativity as a shared process between humans and intelligent tools.</p>
+    <p>For educators, creators, designers, and emerging technology professionals.</p>
+
+    <p><em>Hosted by Rotman School of Management</em></p>
+
     <div style="margin-top: auto;">
       <a href="/events/paolo-granata-talk/">View event →</a>
     </div>
@@ -80,10 +100,20 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-matt-panousis-lipdub-lipsynch-video-ai.png" alt="Toronto SIGGRAPH event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
     <h3>Toronto's LipDub.ai and SpaceFlux</h3>
+
     <p><em>Official Toronto SIGGRAPH Event</em></p>
-    <p>Toronto's Lipdub.ai's audio AI/ML lip synch rendering to any video. Indie Dev Calin Ardelean on making Spaceflux.</p>    
-    <p>Hosted by George Brown College</p>
+
+    <p>• AI-powered lip sync for video</p>
+    <p>• Indie game development showcase</p>
+
+    <p>LipDub.ai presented audio-driven AI/ML lip sync rendering for video workflows.</p>
+    <p>Indie developer Calin Ardelean shared the creative and technical process behind SpaceFlux.</p>
+    <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
+
+    <p><em>Hosted by George Brown College</em></p>
+
     <div style="margin-top: auto;">
       <a href="/events/lip-dub-spaceflux/">View event →</a>
     </div>
@@ -92,10 +122,20 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH holiday gathering"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
     <h3>Toronto SIGGRAPH Community Holiday Gathering 2025</h3>
+
     <p><em>Official Toronto SIGGRAPH Event</em></p>
-    <p>End-of-year gathering bringing together Toronto’s computer graphics, VFX, and interactive media community.</p>
-    <p>Hosted by Toronto ACM SIGGRAPH</p>
+
+    <p>• End-of-year community gathering</p>
+    <p>• Computer graphics and interactive media networking</p>
+
+    <p>A casual gathering for Toronto’s computer graphics, VFX, animation, and interactive media community.</p>
+    <p>The event brings members together to reconnect, meet new people, and close out the year.</p>
+    <p>For SIGGRAPH members, students, creators, researchers, and local industry professionals.</p>
+
+    <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
+
     <div style="margin-top: auto;">
       <a href="/events/holiday-gathering-2025/">View event →</a>
     </div>
