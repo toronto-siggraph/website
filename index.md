@@ -19,35 +19,6 @@
 The official Toronto chapter of ACM SIGGRAPH connects creators, developers, researchers, and industry professionals across Toronto’s digital media and technology ecosystem.
 </p>
 
-<h2>Next Meetup</h2>
-
-<!-- COMING SOON CARD -->
-<div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
-
-  <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
-    Still rendering ...
-  </h2>
-
-  <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
-
-    <div style="flex: 0 0 420px; max-width: 100%;">
-      <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Toronto SIGGRAPH coming soon even"
-           style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
-    </div>
-
-    <div style="flex: 1; min-width: 280px;">
-      <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
-
-      <p><strong>
-        Update coming soon for next meetup.
-      </strong></p>
-
-
-    </div>
-
-  </div>
-</div>
 
 <h2>Recent Meetups</h2>
 
