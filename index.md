@@ -72,9 +72,6 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Hosted by Thomas Fisher Rare Book Library</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/amelia-acker-talk/">View event →</a>
-    </div>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -96,9 +93,6 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Hosted by Rotman School of Management</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/paolo-granata-talk/">View event →</a>
-    </div>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -120,9 +114,6 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Hosted by George Brown College</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/lip-dub-spaceflux/">View event →</a>
-    </div>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -144,9 +135,6 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/holiday-gathering-2025/">View event →</a>
-    </div>
   </div>
 
 </div>
