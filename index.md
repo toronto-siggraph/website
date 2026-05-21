@@ -134,5 +134,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 
-</div>
 <!-- END CARD -->
+
+</div>
