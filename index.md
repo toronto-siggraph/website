@@ -1,7 +1,6 @@
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <a href="/">Home</a> &nbsp;|&nbsp;
   <a href="/events/">Events</a> &nbsp;|&nbsp;
-  <a href="/membership/">Membership</a> &nbsp;|&nbsp;
   <a href="/about/">About</a>
 </nav>
 
