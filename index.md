@@ -49,7 +49,7 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
   </div>
 </div>
 
-<h2>Recent Meetups</h2>
+<<h2>Recent Meetups</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
@@ -61,8 +61,10 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Community Partner Event</em></p>
 
-    <p>• Digital archiving and access</p>
-    <p>• Data platforms in the AI age</p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Digital archives in the AI era</strong></li>
+      <li><strong>Access, platforms, and historical data systems</strong></li>
+    </ul>
 
     <p>Dr. Amelia Acker explores how archives, machines, and platforms shape access to knowledge.</p>
     <p>The talk connects historical data systems to today’s AI-driven information challenges.</p>
@@ -83,8 +85,10 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Community Partner Event</em></p>
 
-    <p>• Human-AI collaboration</p>
-    <p>• Creativity, learning, and media</p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Human creativity and AI collaboration</strong></li>
+      <li><strong>Rethinking learning, media, and knowledge</strong></li>
+    </ul>
 
     <p>Dr. Paolo Granata examines how AI is changing the way people think, learn, and create.</p>
     <p>The session looks at creativity as a shared process between humans and intelligent tools.</p>
@@ -105,8 +109,10 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-    <p>• AI-powered lip sync for video</p>
-    <p>• Indie game development showcase</p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>AI-powered lip sync and video workflows</strong></li>
+      <li><strong>Indie game development and creative technology</strong></li>
+    </ul>
 
     <p>LipDub.ai presented audio-driven AI/ML lip sync rendering for video workflows.</p>
     <p>Indie developer Calin Ardelean shared the creative and technical process behind SpaceFlux.</p>
@@ -127,8 +133,10 @@ The official Toronto chapter of ACM SIGGRAPH connects creators, developers, rese
 
     <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-    <p>• End-of-year community gathering</p>
-    <p>• Computer graphics and interactive media networking</p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Toronto computer graphics community gathering</strong></li>
+      <li><strong>VFX, animation, games, and interactive media networking</strong></li>
+    </ul>
 
     <p>A casual gathering for Toronto’s computer graphics, VFX, animation, and interactive media community.</p>
     <p>The event brings members together to reconnect, meet new people, and close out the year.</p>
