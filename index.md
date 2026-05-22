@@ -35,18 +35,11 @@
   }
 
   @keyframes scrollLogos {
-    from {
-      transform: translateX(0);
-    }
-
-    to {
-      transform: translateX(-33.333%);
-    }
+    from { transform: translateX(0); }
+    to { transform: translateX(-33.333%); }
   }
 
-  /* Mobile */
   @media (max-width: 640px) {
-
     .logo-marquee {
       margin: 16px 0 24px 0;
       padding: 8px 0;
@@ -60,7 +53,6 @@
     .logo-marquee img {
       height: 28px;
     }
-
   }
 </style>
 
@@ -73,30 +65,29 @@
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
     <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-imax.png" alt="Imax logo">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount, Star Trek, Pixomondo logos">
-    
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
 
     <!-- SET 2 -->
-    <img src="/images/logo-event-supporters.png" alt="Event supporters">
-    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
-    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-imax.png" alt="Imax logo">
-    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount, Star Trek, Pixomondo logos">
+    <img src="/images/logo-event-supporters.png" alt="">
+    <img src="/images/logo-event-supporters-maya.png" alt="">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="">
+    <img src="/images/logo-event-supporters-ibm.png" alt="">
+    <img src="/images/logo-event-supporters-imax.png" alt="">
+    <img src="/images/logo-event-supporters-dell.png" alt="">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
 
     <!-- SET 3 -->
-    <img src="/images/logo-event-supporters.png" alt="Event supporters">
-    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
-    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-imax.png" alt="Imax logo">
-    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount, Star Trek, Pixomondo logos">
+    <img src="/images/logo-event-supporters.png" alt="">
+    <img src="/images/logo-event-supporters-maya.png" alt="">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="">
+    <img src="/images/logo-event-supporters-ibm.png" alt="">
+    <img src="/images/logo-event-supporters-imax.png" alt="">
+    <img src="/images/logo-event-supporters-dell.png" alt="">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
 
   </div>
 </div>
@@ -137,9 +128,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
       </ul>
 
       <p>Toronto ACM SIGGRAPH is preparing the next community meetup and speaker announcement.</p>
-
       <p>The chapter connects professionals, students, researchers, artists, and technologists across the GTA.</p>
-
       <p>Updates will be posted here and on the Events page.</p>
 
     </div>
@@ -168,9 +157,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     </ul>
 
     <p>Dr. Amelia Acker explores how archives, machines, and platforms shape access to knowledge.</p>
-
     <p>The talk connects historical data systems to today’s AI-driven information challenges.</p>
-
     <p>For researchers, designers, technologists, and digital media practitioners.</p>
 
     <p><em>Hosted by Thomas Fisher Rare Book Library</em></p>
@@ -194,9 +181,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     </ul>
 
     <p>Dr. Paolo Granata examines how AI is changing the way people think, learn, and create.</p>
-
     <p>The session looks at creativity as a shared process between humans and intelligent tools.</p>
-
     <p>For educators, creators, designers, and emerging technology professionals.</p>
 
     <p><em>Hosted by Rotman School of Management</em></p>
@@ -220,9 +205,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     </ul>
 
     <p>LipDub.ai presented audio-driven AI/ML lip sync rendering for video workflows.</p>
-
     <p>Indie developer Calin Ardelean shared the creative and technical process behind SpaceFlux.</p>
-
     <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
 
     <p><em>Hosted by George Brown College</em></p>
@@ -246,23 +229,16 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     </ul>
 
     <p>A casual gathering for Toronto’s computer graphics, VFX, animation, and interactive media community.</p>
-
     <p>The event brings members together to reconnect, meet new people, and close out the year.</p>
-
     <p>For SIGGRAPH members, students, creators, researchers, and local industry professionals.</p>
 
     <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/holiday-gathering-2025/">View event →</a>
-    </div>
 
   </div>
 
-
-
 </div>
 
-    <div style="margin-top: auto;">
-      <a href="/events/">Previous events →</a>
-    </div>
+<div style="margin-top: 24px;">
+  <a href="/events/">Previous events →</a>
+</div>
