@@ -16,34 +16,35 @@
     padding: 10px 0;
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    position: relative;
   }
 
   .logo-marquee-track {
     display: flex;
     align-items: center;
-    gap: 36px;
+    gap: 42px;
     width: max-content;
-    animation: logoMarquee 28s linear infinite;
+    animation: scrollLogos 60s linear infinite;
   }
 
   .logo-marquee img {
     height: 38px;
     width: auto;
-    opacity: 0.6;
-    filter: grayscale(100%);
+    opacity: 0.9;
     flex-shrink: 0;
   }
 
-  @keyframes logoMarquee {
+  @keyframes scrollLogos {
     from {
       transform: translateX(0);
     }
+
     to {
-      transform: translateX(-50%);
+      transform: translateX(-33.333%);
     }
   }
 
-  /* Mobile responsive adjustments */
+  /* Mobile */
   @media (max-width: 640px) {
 
     .logo-marquee {
@@ -52,8 +53,8 @@
     }
 
     .logo-marquee-track {
-      gap: 24px;
-      animation-duration: 22s;
+      gap: 28px;
+      animation-duration: 40s;
     }
 
     .logo-marquee img {
@@ -66,21 +67,32 @@
 <div class="logo-marquee">
   <div class="logo-marquee-track">
 
-    <!-- First set -->
-    <img src="/images/logo-event-supporters.png" alt="Toronto Supporters">
+    <!-- SET 1 -->
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="Side Effects logo">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="Nvidia logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-paramount-starteck-pixomondo.png" alt="Paramount Star Trek logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount, Star Trek, Pixomondo logos">
 
-    <!-- Duplicate set for seamless scrolling -->
-    <img src="/images/logo-event-supporters.png" alt="Toronto Supporters">
-    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="Side Effects logo">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="Nvidia logo">
-    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-paramount-starteck-pixomondo.png" alt="Paramount Star Trek logo">
+    <!-- SET 2 -->
+    <img src="/images/logo-event-supporters.png" alt="">
+    <img src="/images/logo-event-supporters-maya.png" alt="">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="">
+    <img src="/images/logo-event-supporters-ibm.png" alt="">
+    <img src="/images/logo-event-supporters-dell.png" alt="">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
+
+    <!-- SET 3 -->
+    <img src="/images/logo-event-supporters.png" alt="">
+    <img src="/images/logo-event-supporters-maya.png" alt="">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="">
+    <img src="/images/logo-event-supporters-ibm.png" alt="">
+    <img src="/images/logo-event-supporters-dell.png" alt="">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
 
   </div>
 </div>
