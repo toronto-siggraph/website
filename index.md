@@ -64,30 +64,33 @@
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
     <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
-    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
     <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
 
     <!-- SET 2 -->
-    <img src="/images/logo-event-supporters.png" alt="">
-    <img src="/images/logo-event-supporters-maya.png" alt="">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="">
-    <img src="/images/logo-event-supporters-ibm.png" alt="">
-    <img src="/images/logo-event-supporters-imax.png" alt="">
-    <img src="/images/logo-event-supporters-dell.png" alt="">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
 
     <!-- SET 3 -->
-    <img src="/images/logo-event-supporters.png" alt="">
-    <img src="/images/logo-event-supporters-maya.png" alt="">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="">
-    <img src="/images/logo-event-supporters-ibm.png" alt="">
-    <img src="/images/logo-event-supporters-imax.png" alt="">
-    <img src="/images/logo-event-supporters-dell.png" alt="">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
 
   </div>
 </div>
