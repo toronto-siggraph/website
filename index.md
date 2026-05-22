@@ -175,10 +175,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
     <p><em>Hosted by Thomas Fisher Rare Book Library</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/amelia-acker-talk/">View event →</a>
-    </div>
-
   </div>
 
   <!-- EVENT 2 -->
@@ -205,10 +201,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
     <p><em>Hosted by Rotman School of Management</em></p>
 
-    <div style="margin-top: auto;">
-      <a href="/events/paolo-granata-talk/">View event →</a>
-    </div>
-
   </div>
 
   <!-- EVENT 3 -->
@@ -234,10 +226,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
 
     <p><em>Hosted by George Brown College</em></p>
-
-    <div style="margin-top: auto;">
-      <a href="/events/lip-dub-spaceflux/">View event →</a>
-    </div>
 
   </div>
 
@@ -271,4 +259,10 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 
+
+
 </div>
+
+    <div style="margin-top: auto;">
+      <a href="/events/">Previous events →</a>
+    </div>
