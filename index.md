@@ -67,20 +67,20 @@
   <div class="logo-marquee-track">
 
     <!-- First set -->
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/logo-event-supporters.png" alt="Toronto Supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="Side Effects logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="Nvidia logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-paramount-starteck-pixomondo.png" alt="Paramount Star Trek logo">
 
     <!-- Duplicate set for seamless scrolling -->
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
-    <img src="/images/scroller_placeholder.png" alt="Industry logo">
+    <img src="/images/logo-event-supporters.png" alt="Toronto Supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="Side Effects logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="Nvidia logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-paramount-starteck-pixomondo.png" alt="Paramount Star Trek logo">
 
   </div>
 </div>
