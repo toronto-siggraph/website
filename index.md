@@ -30,7 +30,7 @@
     height: 38px;
     width: auto;
     opacity: 0.6;
-    filter: grayscale(100%);
+    // filter: grayscale(100%);
     flex-shrink: 0;
   }
 
