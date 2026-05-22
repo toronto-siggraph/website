@@ -24,7 +24,7 @@
     align-items: center;
     gap: 42px;
     width: max-content;
-    animation: scrollLogos 30s linear infinite;
+    animation: scrollLogos 10s linear infinite;
   }
 
   .logo-marquee img {
