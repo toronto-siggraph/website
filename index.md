@@ -65,6 +65,7 @@
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
     <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
     <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
@@ -76,6 +77,7 @@
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
     <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
     <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
@@ -87,6 +89,7 @@
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
     <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
     <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
