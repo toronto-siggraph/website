@@ -15,13 +15,20 @@ title: About
 <!-- INDUSTRY LOGO MARQUEE -->
 <style>
   .logo-marquee {
-    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
     width: 100%;
     margin: 20px 0 28px 0;
     padding: 10px 0;
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
-    position: relative;
+    cursor: grab;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .logo-marquee::-webkit-scrollbar {
+    display: none;
   }
 
   .logo-marquee-track {
@@ -29,7 +36,7 @@ title: About
     align-items: center;
     gap: 42px;
     width: max-content;
-    animation: scrollLogos 20s linear infinite;
+    padding-right: 42px;
   }
 
   .logo-marquee img {
@@ -37,11 +44,8 @@ title: About
     width: auto;
     opacity: 0.9;
     flex-shrink: 0;
-  }
-
-  @keyframes scrollLogos {
-    from { transform: translateX(0); }
-    to { transform: translateX(-33.333%); }
+    pointer-events: none;
+    user-select: none;
   }
 
   @media (max-width: 640px) {
@@ -52,7 +56,7 @@ title: About
 
     .logo-marquee-track {
       gap: 28px;
-      animation-duration: 40s;
+      padding-right: 28px;
     }
 
     .logo-marquee img {
@@ -99,6 +103,42 @@ title: About
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+
+  </div>
+</div>
+
+<script>
+  const marquee = document.querySelector('.logo-marquee');
+
+  let isDown = false;
+  let startX;
+  let scrollLeft;
+
+  marquee.addEventListener('mousedown', (e) => {
+    isDown = true;
+    marquee.style.cursor = 'grabbing';
+    startX = e.pageX - marquee.offsetLeft;
+    scrollLeft = marquee.scrollLeft;
+  });
+
+  marquee.addEventListener('mouseleave', () => {
+    isDown = false;
+    marquee.style.cursor = 'grab';
+  });
+
+  marquee.addEventListener('mouseup', () => {
+    isDown = false;
+    marquee.style.cursor = 'grab';
+  });
+
+  marquee.addEventListener('mousemove', (e) => {
+    if (!isDown) return;
+    e.preventDefault();
+    const x = e.pageX - marquee.offsetLeft;
+    const walk = (x - startX) * 1.5;
+    marquee.scrollLeft = scrollLeft - walk;
+  });
+</script>
 
   </div>
 </div>
