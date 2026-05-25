@@ -304,4 +304,34 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-craig-kaplan-aperiodic-monotiles.png"
+       alt="Craig Kaplan Aperiodic Monotiles event"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>Aperiodic Monotiles: The Einstein Tile</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>The “hat” monotile discovery</strong></li>
+    <li><strong>Aperiodic geometry and mathematical tiling theory</strong></li>
+  </ul>
+
+  <p>
+    Prof. Craig Kaplan from the University of Waterloo explored the discovery of the first known aperiodic monotile — the “hat” tile.
+  </p>
+
+  <p>
+    The talk covered the history of tiling theory, the search for an “einstein” shape, and related forms including the turtle and spectre tiles.
+  </p>
+
+  <p>
+    For mathematics, procedural graphics, generative design, geometry, and computational art audiences.
+  </p>
+
+  <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
+
+</div>
+
 </div>
