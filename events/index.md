@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Events
 ---
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
@@ -330,7 +330,37 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     For mathematics, procedural graphics, generative design, geometry, and computational art audiences.
   </p>
 
-  <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
+  <p><em>Hosted by George Brown College</em></p>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-sidefx-houdini-20-jeff-wagner.png"
+       alt="SideFX Houdini 20 event with Jeff Wagner"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>SideFX Houdini 20: Technical Innovations</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>New Houdini 20 features and workflows</strong></li>
+    <li><strong>Procedural 3D, VFX, simulation, and technical art</strong></li>
+  </ul>
+
+  <p>
+    SideFX Senior Technical Consultant Jeff “Old School” Wagner presented a sneak peek into the technical innovations behind Houdini 20.
+  </p>
+
+  <p>
+    The session explored new features, design decisions, and implementation work behind one of SideFX’s feature-packed releases.
+  </p>
+
+  <p>
+    For VFX artists, technical directors, procedural artists, animators, and computer graphics professionals.
+  </p>
+
+  <p><em>Presented by SideFX</em></p>
 
 </div>
 
