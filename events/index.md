@@ -364,7 +364,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
 </div>
 
-```html
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
   <img src="/images/toronto-siggraph-metavrse-julie-alan-smithson.png"
        alt="MetaVRse event with Julie Smithson and Alan Smithson"
@@ -485,7 +484,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
 </div>
 
-```html
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
   <img src="/images/toronto-siggraph-yulio-vr-ar-cad-workflows.png"
        alt="Yulio Technologies AR VR CAD event"
