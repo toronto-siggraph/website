@@ -31,9 +31,9 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- HANS -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/bio-hans.png"
-         alt="Hans Bathija"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+<img src="/images/bio-hans-avatar-square.png"
+     alt="Hans Bathija"
+     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
 
     <h3>Hans Bathija</h3>
 
@@ -61,9 +61,9 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- ROCK -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/bio-rock.png"
-         alt="Rock Jethwa"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+<img src="/images/bio-rock-avatar-square.png"
+     alt="Rock Jethwa"
+     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
 
     <h3>Rock Jethwa</h3>
 
@@ -91,9 +91,9 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- JOSE -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/bio-jose.png"
-         alt="Jose Carlos"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+<img src="/images/bio-jose-avatar-square.png"
+     alt="Jose Carlos Bringas"
+     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
 
     <h3>Jose Carlos Bringas</h3>
 
@@ -121,9 +121,9 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- ALAIN -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/bio-alain.png"
-         alt="Alain Chesnais"
-         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+<img src="/images/bio-alain-avatar-square.png"
+     alt="Alain Chesnais"
+     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
 
     <h3>Alain Chesnais</h3>
 
