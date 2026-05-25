@@ -70,7 +70,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <p><em>Vice Chair</em></p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-      <li><strong>Enterprise digital transformation, CX, UX, interactive media pipelines</strong></li>
+      <li><strong>Enterprise AI digital transformation, CX, UX, interactive media pipelines</strong></li>
       <li><strong>Community outreach and digital experience strategy</strong></li>
     </ul>
 
