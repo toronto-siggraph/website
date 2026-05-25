@@ -117,14 +117,14 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
 
 <h2>Executive Team</h2>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
   <!-- HANS -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
 
-<img src="/images/bio-hans-avatar-square.png"
-     alt="Hans Bathija"
-     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
+    <img src="/images/bio-hans-avatar-square.png"
+         alt="Hans Bathija"
+         style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Hans Bathija</h3>
 
@@ -150,11 +150,11 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   </div>
 
   <!-- ROCK -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
 
-<img src="/images/bio-rock-avatar-square.png"
-     alt="Rock Jethwa"
-     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
+    <img src="/images/bio-rock-avatar-square.png"
+         alt="Rock Jethwa"
+         style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Rock Jethwa</h3>
 
@@ -180,11 +180,11 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   </div>
 
   <!-- JOSE -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
 
-<img src="/images/bio-jose-avatar-square.png"
-     alt="Jose Carlos Bringas"
-     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
+    <img src="/images/bio-jose-avatar-square.png"
+         alt="Jose Carlos Bringas"
+         style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Jose Carlos Bringas</h3>
 
@@ -210,11 +210,11 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   </div>
 
   <!-- ALAIN -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
 
-<img src="/images/bio-alain-avatar-square.png"
-     alt="Alain Chesnais"
-     style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 4px solid #fff; box-shadow: 0 4px 18px rgba(0,0,0,0.18); display: block; margin: 0 auto 16px auto;">
+    <img src="/images/bio-alain-avatar-square.png"
+         alt="Alain Chesnais"
+         style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Alain Chesnais</h3>
 
