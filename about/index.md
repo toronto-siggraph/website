@@ -121,7 +121,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- ALAIN -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/toronto-siggraph-alain-chesnais.png"
+    <img src="/images/bio-alain.png"
          alt="Alain Chesnais"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
