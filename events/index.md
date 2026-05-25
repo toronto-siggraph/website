@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <a href="/">Home</a> &nbsp;|&nbsp;
   <a href="/events/">Events</a> &nbsp;|&nbsp;
@@ -7,16 +12,22 @@
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
-<!-- INDUSTRY LOGO MARQUEE -->
 <style>
   .logo-marquee {
-    overflow: hidden;
+    overflow-x: auto;
+    overflow-y: hidden;
     width: 100%;
     margin: 20px 0 28px 0;
     padding: 10px 0;
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
-    position: relative;
+    cursor: grab;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .logo-marquee::-webkit-scrollbar {
+    display: none;
   }
 
   .logo-marquee-track {
@@ -24,7 +35,7 @@
     align-items: center;
     gap: 42px;
     width: max-content;
-    animation: scrollLogos 20s linear infinite;
+    padding-right: 42px;
   }
 
   .logo-marquee img {
@@ -32,21 +43,25 @@
     width: auto;
     opacity: 0.9;
     flex-shrink: 0;
+    pointer-events: none;
+    user-select: none;
   }
 
-  @keyframes scrollLogos {
-    from {
-      transform: translateX(0);
-    }
+  .exec-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    margin-top: 16px;
+    align-items: stretch;
+  }
 
-    to {
-      transform: translateX(-33.333%);
+  @media (max-width: 700px) {
+    .exec-grid {
+      grid-template-columns: 1fr;
     }
   }
 
-  /* Mobile */
   @media (max-width: 640px) {
-
     .logo-marquee {
       margin: 16px 0 24px 0;
       padding: 8px 0;
@@ -54,33 +69,18 @@
 
     .logo-marquee-track {
       gap: 28px;
-      animation-duration: 40s;
+      padding-right: 28px;
     }
 
     .logo-marquee img {
       height: 28px;
     }
-
   }
 </style>
 
 <div class="logo-marquee">
   <div class="logo-marquee-track">
 
-    <!-- SET 1 -->
-    <img src="/images/logo-event-supporters.png" alt="Event supporters">
-    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
-    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
-    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
-    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
-    <img src="/images/logo-event-supporters.png" alt="Event supporters">
-    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
-    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
-    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
-    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
-    
-
-    <!-- SET 2 -->
     <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
@@ -92,7 +92,17 @@
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
 
-    <!-- SET 3 -->
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+
     <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
     <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
@@ -106,6 +116,68 @@
 
   </div>
 </div>
+
+<script>
+  const marquee = document.querySelector('.logo-marquee');
+
+  let isDown = false;
+  let startX = 0;
+  let scrollLeft = 0;
+  let resumeTimer;
+
+  function autoScrollMarquee() {
+    if (!isDown) {
+      marquee.scrollLeft += 0.5;
+
+      if (marquee.scrollLeft >= marquee.scrollWidth - marquee.clientWidth - 1) {
+        marquee.scrollLeft = 0;
+      }
+    }
+
+    requestAnimationFrame(autoScrollMarquee);
+  }
+
+  marquee.addEventListener('mousedown', (e) => {
+    isDown = true;
+    marquee.style.cursor = 'grabbing';
+    startX = e.pageX - marquee.offsetLeft;
+    scrollLeft = marquee.scrollLeft;
+    clearTimeout(resumeTimer);
+  });
+
+  marquee.addEventListener('mouseleave', () => {
+    isDown = false;
+    marquee.style.cursor = 'grab';
+  });
+
+  marquee.addEventListener('mouseup', () => {
+    marquee.style.cursor = 'grab';
+    resumeTimer = setTimeout(() => {
+      isDown = false;
+    }, 600);
+  });
+
+  marquee.addEventListener('mousemove', (e) => {
+    if (!isDown) return;
+    e.preventDefault();
+    const x = e.pageX - marquee.offsetLeft;
+    const walk = (x - startX) * 1.5;
+    marquee.scrollLeft = scrollLeft - walk;
+  });
+
+  marquee.addEventListener('touchstart', () => {
+    isDown = true;
+    clearTimeout(resumeTimer);
+  });
+
+  marquee.addEventListener('touchend', () => {
+    resumeTimer = setTimeout(() => {
+      isDown = false;
+    }, 900);
+  });
+
+  autoScrollMarquee();
+</script>
 
 <h1 style="font-size: 28px; line-height: 1.2; margin-top: 0;">
   <strong>Events</strong>
