@@ -31,7 +31,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- HANS -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/toronto-siggraph-hans-bathija.png"
+    <img src="/images/bio-hans.png"
          alt="Hans Bathija"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
@@ -61,7 +61,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- ROCK -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/toronto-siggraph-rock-jethwa.png"
+    <img src="/images/bio-rock.png"
          alt="Rock Jethwa"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
@@ -91,11 +91,11 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <!-- JOSE -->
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
 
-    <img src="/images/toronto-siggraph-jose-carlos.png"
+    <img src="/images/bio-jose.png"
          alt="Jose Carlos"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-    <h3>Jose Carlos</h3>
+    <h3>Jose Carlos Bringas</h3>
 
     <p><em>Secretary</em></p>
 
