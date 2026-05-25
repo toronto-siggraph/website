@@ -12,6 +12,97 @@ title: About
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
      style="max-width: 520px; width: 100%; height: auto; display: block; margin: 1px 0;">
 
+<!-- INDUSTRY LOGO MARQUEE -->
+<style>
+  .logo-marquee {
+    overflow: hidden;
+    width: 100%;
+    margin: 20px 0 28px 0;
+    padding: 10px 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+  }
+
+  .logo-marquee-track {
+    display: flex;
+    align-items: center;
+    gap: 42px;
+    width: max-content;
+    animation: scrollLogos 20s linear infinite;
+  }
+
+  .logo-marquee img {
+    height: 38px;
+    width: auto;
+    opacity: 0.9;
+    flex-shrink: 0;
+  }
+
+  @keyframes scrollLogos {
+    from { transform: translateX(0); }
+    to { transform: translateX(-33.333%); }
+  }
+
+  @media (max-width: 640px) {
+    .logo-marquee {
+      margin: 16px 0 24px 0;
+      padding: 8px 0;
+    }
+
+    .logo-marquee-track {
+      gap: 28px;
+      animation-duration: 40s;
+    }
+
+    .logo-marquee img {
+      height: 28px;
+    }
+  }
+</style>
+
+<div class="logo-marquee">
+  <div class="logo-marquee-track">
+
+    <!-- SET 1 -->
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+
+    <!-- SET 2 -->
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+
+    <!-- SET 3 -->
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+
+  </div>
+</div>
+
 <h1 style="font-size: 28px; line-height: 1.2; margin-top: 0;">
   <strong>About</strong>
 </h1>
