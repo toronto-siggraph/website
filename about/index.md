@@ -45,11 +45,15 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     </ul>
 
     <p>
-      Placeholder biography content for Hans Bathija.
+    Hans Bathija is Chair of Toronto ACM SIGGRAPH and a long-time Toronto technology and community leader with more than 20 years of international experience across government, enterprise, digital media, and emerging technology initiatives.
     </p>
 
     <p>
-      This section can later include professional background, SIGGRAPH involvement, research interests, industry work, or community initiatives.
+    He has founded innovative graphics companies, and has advised governments, Fortune 500 organizations, startups, and not-for-profit institutions across sectors including financial services, healthcare, education, and technology.
+    </p>
+
+    <p>
+    Originally from London, England and now based in Toronto, Hans has served in leadership roles across numerous civic, cultural, and professional organizations, helping build connections between technology, creativity, public service, and community engagement.
     </p>
 
   </div>
@@ -66,16 +70,20 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <p><em>Vice Chair</em></p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-      <li><strong>UX, interactive media, and digital transformation</strong></li>
+      <li><strong>Enterprise digital transformation, CX, UX, interactive media pipelines</strong></li>
       <li><strong>Community outreach and digital experience strategy</strong></li>
     </ul>
 
     <p>
-      Placeholder biography content for Rock Jethwa.
+    Rock Jethwa is Vice Chair of Toronto ACM SIGGRAPH and a Toronto-based CX, UX, and Service Design professional with experience spanning enterprise digital transformation projects for Fortune 500 companies and government.
     </p>
 
     <p>
-      This section can later include experience in UX, emerging technology, digital media, interactive systems, and Toronto technology community initiatives.
+    His early work included contributions to Apple’s internet and browser initiatives during the early growth of the web, along with pioneering 3D graphics and digital heritage projects involving artifact scanning for the Vatican and one of the first digital 3D recreations of the Roman Colosseum.
+    </p>
+
+    <p>
+    Rock remains passionate about building creative technology communities in Toronto and beyond.
     </p>
 
   </div>
@@ -97,11 +105,15 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     </ul>
 
     <p>
-      Placeholder biography content for Jose Carlos.
+    Jose Carlos is Secretary of Toronto ACM SIGGRAPH and a Toronto-based creative technologist and technical artist specializing in realtime systems, immersive media, AI-assisted workflows, and interactive experiences.
     </p>
 
     <p>
-      This section can later include professional background, SIGGRAPH involvement, research interests, or production experience.
+    His work spans VR, VFX, Unreal Engine, computer vision, motion design, and creative tool development, with a focus on connecting technology, storytelling, and user experience across digital media platforms.
+    </p>
+
+    <p>
+    Jose Carlos is passionate about emerging creative technologies, realtime graphics, and building collaborative communities around computer graphics, interactive media, and innovation.
     </p>
 
   </div>
@@ -123,13 +135,35 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     </ul>
 
     <p>
-      Placeholder biography content for Alain Chesnais.
+    Alain Chesnais is Treasurer and Chair Emeritus of Toronto ACM SIGGRAPH and an internationally recognized leader in computer graphics, interactive media, and creative technology communities.
     </p>
 
     <p>
-      This section can later include ACM SIGGRAPH leadership history, global community involvement, and contributions to computer graphics and digital media.
+    He is a past President of ACM SIGGRAPH and has spent decades supporting innovation across digital media, visualization, animation, games, and emerging technology industries around the world.
+    </p>
+
+    <p>
+    Based in Toronto, Alain continues to support the growth of creative technology communities through mentorship, leadership, and international collaboration.
     </p>
 
   </div>
 
 </div>
+
+<h2>About the Chapter</h2>
+
+<p>
+Toronto ACM SIGGRAPH brings together professionals, students, researchers, artists, developers, and creators working across computer graphics, interactive media, visualization, AI, animation, games, VFX, and emerging technology.
+</p>
+
+<p>
+The chapter’s mission is to support and grow Toronto’s creative technology community through events, conversations, and collaborations that explore the evolving world of computer graphics and interactive techniques.
+</p>
+
+<p>
+We aim to expand professional networks, encourage cross-disciplinary exchange, promote public appreciation for computer graphics, and support the broader ACM SIGGRAPH community and conferences around the world.
+</p>
+
+<p>
+ACM SIGGRAPH is an international organization dedicated to the advancement of computer graphics and interactive techniques through education, research, innovation, and community engagement.
+</p>
