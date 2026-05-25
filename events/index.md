@@ -364,4 +364,187 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
 </div>
 
+```html
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-metavrse-julie-alan-smithson.png"
+       alt="MetaVRse event with Julie Smithson and Alan Smithson"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>MetaVRse: Bringing Metaverse Creation to Everyone</h3>
+
+  <p><em>Official Toronto SIGGRAPH Zoom Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>Low-code 3D and immersive web experiences</strong></li>
+    <li><strong>XR, spatial computing, enterprise learning, and training</strong></li>
+  </ul>
+
+  <p>
+    MetaVRse co-founders Julie Smithson and Alan Smithson joined Toronto SIGGRAPH to discuss their Toronto-based platform for creating and sharing interactive 3D experiences on the web.
+  </p>
+
+  <p>
+    The session explored immersive technology, enterprise XR, digital transformation, and how metaverse creation tools can support learning, training, and communication at scale.
+  </p>
+
+  <p>
+    For XR creators, educators, designers, developers, enterprise teams, and spatial computing professionals.
+  </p>
+
+  <p><em>Zoom event due to venue booking conflict</em></p>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-student-volunteer-siggraph-2024.png"
+       alt="SIGGRAPH 2024 Student Volunteer information session"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>SIGGRAPH 2024 Student Volunteer Program</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>Careers in VFX, animation, gaming, and CG</strong></li>
+    <li><strong>Behind-the-scenes access to the SIGGRAPH conference</strong></li>
+  </ul>
+
+  <p>
+    Victoria Lofaro, Communications Lead for the SIGGRAPH Student Volunteer Subcommittee (SVSC), joined Toronto SIGGRAPH to discuss how students can get involved with SIGGRAPH 2024 in Denver.
+  </p>
+
+  <p>
+    The session explored the Student Volunteer program, conference experiences, networking opportunities, and pathways into computer graphics, interactive media, and entertainment industries.
+  </p>
+
+  <p>
+    For students, emerging artists, technical directors, developers, researchers, and future computer graphics professionals.
+  </p>
+
+  <p><em>Featuring past SIGGRAPH Student Volunteers</em></p>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-autodesk-maya-25-anniversary.png"
+       alt="Autodesk Maya 25th Anniversary Toronto SIGGRAPH event"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>Autodesk Maya 25th Anniversary Celebration</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>25 years of Maya in film, animation, and VFX</strong></li>
+    <li><strong>Autodesk Toronto studio visit and community celebration</strong></li>
+  </ul>
+
+  <p>
+    Toronto SIGGRAPH joined Autodesk to celebrate the 25th Anniversary of Maya 1.0 with a special community event at Autodesk’s Toronto headquarters.
+  </p>
+
+  <p>
+    The session highlighted the history and evolution of Maya, the Oscar-winning 3D software used in countless films, games, animation projects, and visual effects pipelines around the world.
+  </p>
+
+  <p>
+    For animators, VFX artists, technical directors, game developers, students, and computer graphics professionals.
+  </p>
+
+  <p><em>Hosted by Autodesk Toronto</em></p>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-wefx-houdini-cabinet-of-curiosities.png"
+       alt="WeFX Studio Houdini effects presentation"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>WeFX Studio: Houdini FX for Cabinet of Curiosities</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>Advanced Houdini FLIP, VDB, RBD, and Vellum workflows</strong></li>
+    <li><strong>Netflix VFX production techniques and creature effects</strong></li>
+  </ul>
+
+  <p>
+    WeFX Studio shared advanced Houdini techniques used in Netflix’s <em>Guillermo del Toro’s Cabinet of Curiosities</em>, focusing on lotion simulation and disintegration effects for key characters.
+  </p>
+
+  <p>
+    The presentation explored goo simulations using FLIP and VDB workflows, deforming animated character meshes, and destruction pipelines combining Houdini’s RBD and Vellum toolsets.
+  </p>
+
+  <p>
+    For FX artists, technical directors, Houdini users, VFX students, procedural artists, and computer graphics professionals.
+  </p>
+
+  <p><em>Presented by WeFX Studios</em></p>
+
+</div>
+
+```html
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-yulio-vr-ar-cad-workflows.png"
+       alt="Yulio Technologies AR VR CAD event"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>Yulio Technologies: CAD to AR/VR Workflows</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>Bringing CAD models into AR and VR experiences</strong></li>
+    <li><strong>3D asset pipelines, rendering, and visualization workflows</strong></li>
+  </ul>
+
+  <p>
+    Yulio Technologies presented an inside look at the challenges and opportunities involved in transforming CAD and DCC assets into interactive AR and VR experiences.
+  </p>
+
+  <p>
+    Ian Hall, Chief Product Officer, and Lev Faynshteyn, Head of R&amp;D, discussed rendering pipelines, optimization techniques, and enterprise visualization workflows used across architecture, design, and manufacturing industries.
+  </p>
+
+  <p>
+    For technical artists, XR developers, visualization professionals, engineers, designers, and computer graphics students.
+  </p>
+
+  <p><em>Hosted at the Bahen Centre for Information Technology</em></p>
+
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <img src="/images/toronto-siggraph-dell-technologies-tom-burns-cloud-rendering-ai.png"
+       alt="Dell Technologies event with Tom Burns"
+       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+  <h3>Dell Technologies: Cloud, Rendering, AI and Edge</h3>
+
+  <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+    <li><strong>Real-time rendering, virtual production, and cloud infrastructure</strong></li>
+    <li><strong>AI sampling models, object stores, and edge networking</strong></li>
+  </ul>
+
+  <p>
+    Tom Burns, UDS Field CTO at Dell Technologies, joined Toronto SIGGRAPH for a technical discussion on modern infrastructure for media, rendering, and emerging production workflows.
+  </p>
+
+  <p>
+    The talk explored whether cloud simply means virtualization, along with trends in real-time rendering, virtual production, AI/statistical sampling models, and federated global namespaces.
+  </p>
+
+  <p>
+    For VFX technologists, rendering specialists, technical directors, infrastructure teams, cloud architects, and computer graphics professionals.
+  </p>
+
+  <p><em>Presented by Dell Technologies</em></p>
+
+</div>
+
+
 </div>
