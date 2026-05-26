@@ -234,7 +234,7 @@ title: Toronto SIGGRAPH Home
 Toronto ACM SIGGRAPH events bring together people working in computer graphics, interactive media, animation, visualization, games, VFX, digital art, and emerging technology.
 </p>
 
-<h2>Next meetup</h2>
+<h2>Next Meetup</h2>
 
 <!-- COMING SOON CARD -->
 <div class="coming-soon-card"
@@ -272,7 +272,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
   </div>
 </div>
 
-<h2>Recent meetups</h2>
+<h2>Recent Meetups</h2>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 20px; margin-top: 16px; align-items: stretch;">
 
