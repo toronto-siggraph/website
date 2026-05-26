@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: About Toronto SIGGRAPH
 ---
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
