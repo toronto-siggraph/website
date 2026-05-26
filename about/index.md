@@ -91,6 +91,7 @@ title: About
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+    <img src="/images/logo-event-supporters-netflix.png" alt="Netflix logo">
 
     <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
@@ -102,6 +103,7 @@ title: About
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+    <img src="/images/logo-event-supporters-netflix.png" alt="Netflix logo">
 
     <img src="/images/logo-event-supporters.png" alt="Event supporters">
     <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
@@ -113,6 +115,7 @@ title: About
     <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
     <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+    <img src="/images/logo-event-supporters-netflix.png" alt="Netflix logo">
 
   </div>
 </div>
