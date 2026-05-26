@@ -371,7 +371,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 </div>
 
 <div style="margin-top: 28px;">
-  <a href="/events/"><strong>View all previous events →</strong></a>
+  <a href="/meetups/"><strong>Past meetups →</strong></a>
 </div>
 
 <footer style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 14px; color: #555; line-height: 1.6;">
