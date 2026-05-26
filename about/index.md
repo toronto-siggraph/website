@@ -6,7 +6,7 @@ title: About
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <a href="/">Home</a> &nbsp;|&nbsp;
   <a href="/events/">Events</a> &nbsp;|&nbsp;
-  <a href="/about/">About</a>
+  <strong>About</strong>
 </nav>
 
 <img src="/images/logo.png" alt="Toronto ACM SIGGRAPH logo"
@@ -281,3 +281,22 @@ We aim to expand professional networks, encourage cross-disciplinary exchange, p
 <p>
 ACM SIGGRAPH is an international organization dedicated to the advancement of computer graphics and interactive techniques through education, research, innovation, and community engagement.
 </p>
+
+<footer style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 14px; color: #555; line-height: 1.6;">
+
+  <p>
+    <strong>Toronto ACM SIGGRAPH</strong><br>
+    Computer graphics. Interactive media. Emerging technology. Community.
+  </p>
+
+  <p>
+    <a href="/">Home</a> &nbsp;|&nbsp;
+    <a href="/events/">Events</a> &nbsp;|&nbsp;
+    <strong>About</strong>
+  </p>
+
+  <p>
+    Toronto ACM SIGGRAPH is the Toronto professional chapter of ACM SIGGRAPH, connecting creators, researchers, developers, artists, students, and industry professionals across the computer graphics and interactive media community.
+  </p>
+
+</footer>
