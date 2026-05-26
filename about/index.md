@@ -5,7 +5,7 @@ title: About Toronto SIGGRAPH
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <a href="/">Home</a> &nbsp;|&nbsp;
-  <a href="/events/">Events</a> &nbsp;|&nbsp;
+  <a href="/meetups/">Meetups</a> &nbsp;|&nbsp;
   <strong>About</strong>
 </nav>
 
@@ -291,7 +291,7 @@ ACM SIGGRAPH is an international organization dedicated to the advancement of co
 
   <p>
     <a href="/">Home</a> &nbsp;|&nbsp;
-    <a href="/events/">Events</a> &nbsp;|&nbsp;
+    <a href="/meetups/">Meetups</a> &nbsp;|&nbsp;
     <strong>About</strong>
   </p>
 
