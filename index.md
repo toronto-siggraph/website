@@ -4,7 +4,7 @@ title: Toronto SIGGRAPH Home
 ---
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
-  <a href="/">Home</a> &nbsp;|&nbsp;
+  <strong>Home</strong> &nbsp;|&nbsp;
   <a href="/events/">Events</a> &nbsp;|&nbsp;
   <a href="/about/">About</a>
 </nav>
@@ -318,6 +318,25 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
 </div>
 
-<div style="margin-top: 24px;">
-  <a href="/events/">Previous events →</a>
+<div style="margin-top: 28px;">
+  <a href="/events/"><strong>View all previous events →</strong></a>
 </div>
+
+<footer style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 14px; color: #555; line-height: 1.6;">
+
+  <p>
+    <strong>Toronto ACM SIGGRAPH</strong><br>
+    Computer graphics. Interactive media. Emerging technology. Community.
+  </p>
+
+  <p>
+    <strong>Home</strong> &nbsp;|&nbsp;
+    <a href="/events/">Events</a> &nbsp;|&nbsp;
+    <a href="/about/">About</a>
+  </p>
+
+  <p>
+    Toronto ACM SIGGRAPH is the Toronto professional chapter of ACM SIGGRAPH, connecting creators, researchers, developers, artists, students, and industry professionals across the computer graphics and interactive media community.
+  </p>
+
+</footer>
