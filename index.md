@@ -148,6 +148,18 @@ title: Toronto SIGGRAPH Home
     <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
     <img src="/images/logo-event-supporters-netflix.png" alt="Netflix logo">
 
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-maya.png" alt="Autodesk Maya logo">
+    <img src="/images/logo-event-supporters-sideeffects.png" alt="SideFX logo">
+    <img src="/images/logo-event-supporters-nvidia.png" alt="NVIDIA logo">
+    <img src="/images/logo-event-supporters-sony-pictures.png" alt="Sony Pictures logo">
+    <img src="/images/logo-event-supporters.png" alt="Event supporters">
+    <img src="/images/logo-event-supporters-imax.png" alt="IMAX logo">
+    <img src="/images/logo-event-supporters-ibm.png" alt="IBM logo">
+    <img src="/images/logo-event-supporters-dell.png" alt="Dell Technologies logo">
+    <img src="/images/logo-event-supporters-paramount-startrek-pixomondo.png" alt="Paramount and Star Trek logos">
+    <img src="/images/logo-event-supporters-netflix.png" alt="Netflix logo">
+
   </div>
 </div>
 
@@ -213,9 +225,9 @@ title: Toronto SIGGRAPH Home
   autoScrollMarquee();
 </script>
 
-<h1 style="font-size: 28px; line-height: 1.2; margin-top: 0;">
-  <strong>Computer graphics. Interactive media. Emerging technology.</strong><br>
-  Community.
+<h1 style="font-family: 'Arial Black', Arial, Helvetica, sans-serif; font-size: 28px; line-height: 1.15; margin-top: 0; font-weight: 900;">
+  Computer graphics. Interactive media. Emerging technology.<br>
+  <span style="font-family: Arial, Helvetica, sans-serif; font-weight: 400;">Community.</span>
 </h1>
 
 <p>
