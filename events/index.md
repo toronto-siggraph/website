@@ -5,7 +5,7 @@ title: Events
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <a href="/">Home</a> &nbsp;|&nbsp;
-  <a href="/events/">Events</a> &nbsp;|&nbsp;
+  <strong>Events</strong> &nbsp;|&nbsp;
   <a href="/about/">About</a>
 </nav>
 
@@ -55,6 +55,28 @@ title: Events
     align-items: stretch;
   }
 
+  .coming-soon-card {
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  .coming-soon-layout {
+    display: flex;
+    gap: 28px;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .coming-soon-image {
+    flex: 0 0 420px;
+    max-width: 100%;
+  }
+
+  .coming-soon-copy {
+    flex: 1;
+    min-width: 0;
+  }
+
   @media (max-width: 700px) {
     .exec-grid {
       grid-template-columns: 1fr;
@@ -74,6 +96,26 @@ title: Events
 
     .logo-marquee img {
       height: 28px;
+    }
+
+    .coming-soon-card {
+      padding: 20px !important;
+      border-radius: 24px !important;
+    }
+
+    .coming-soon-layout {
+      display: block;
+    }
+
+    .coming-soon-image {
+      max-width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .coming-soon-copy {
+      min-width: 0;
+      max-width: 100%;
+      overflow-wrap: anywhere;
     }
   }
 </style>
@@ -193,27 +235,34 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 <h2>Upcoming Meetup</h2>
 
 <!-- COMING SOON CARD -->
-<div style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
+<div class="coming-soon-card"
+     style="border: 1px solid #ddd; border-radius: 32px; padding: 28px; margin-top: 24px;">
 
   <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
     Still rendering ...
   </h2>
 
-  <div style="display: flex; gap: 28px; flex-wrap: wrap; align-items: flex-start;">
+  <div class="coming-soon-layout">
 
-    <div style="flex: 0 0 420px; max-width: 100%;">
+    <div class="coming-soon-image">
       <img src="/images/toronto-siggraph-coming-soon-venue.png"
            alt="Toronto SIGGRAPH coming soon event"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
-    <div style="flex: 1; min-width: 280px;">
+    <div class="coming-soon-copy">
       <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
 
-      <p><strong>
-        Update coming soon for next meetup.
-      </strong></p>
+      <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+        <li><strong>New event announcement coming soon</strong></li>
+        <li><strong>Computer graphics and emerging technology community</strong></li>
+      </ul>
 
+      <p>Toronto ACM SIGGRAPH is preparing the next community meetup and speaker announcement.</p>
+
+      <p>The chapter connects professionals, students, researchers, artists, and technologists across the GTA.</p>
+
+      <p>Updates will be posted here.</p>
     </div>
 
   </div>
@@ -241,7 +290,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p>For researchers, designers, technologists, and digital media practitioners.</p>
 
     <p><em>Hosted by Thomas Fisher Rare Book Library</em></p>
-
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -262,7 +310,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p>For educators, creators, designers, and emerging technology professionals.</p>
 
     <p><em>Hosted by Rotman School of Management</em></p>
-
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -283,7 +330,6 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
 
     <p><em>Hosted by George Brown College</em></p>
-
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
@@ -304,248 +350,193 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
     <p>For SIGGRAPH members, students, creators, researchers, and local industry professionals.</p>
 
     <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
-
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-craig-kaplan-aperiodic-monotiles.png"
-       alt="Craig Kaplan Aperiodic Monotiles event"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+    <img src="/images/toronto-siggraph-craig-kaplan-aperiodic-monotiles.png"
+         alt="Craig Kaplan Aperiodic Monotiles event"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <h3>Aperiodic Monotiles: The Einstein Tile</h3>
+    <h3>Aperiodic Monotiles: The Einstein Tile</h3>
 
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>The “hat” monotile discovery</strong></li>
-    <li><strong>Aperiodic geometry and mathematical tiling theory</strong></li>
-  </ul>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>The “hat” monotile discovery</strong></li>
+      <li><strong>Aperiodic geometry and mathematical tiling theory</strong></li>
+    </ul>
 
-  <p>
-    Prof. Craig Kaplan from the University of Waterloo explored the discovery of the first known aperiodic monotile — the “hat” tile.
-  </p>
+    <p>Prof. Craig Kaplan from the University of Waterloo explored the discovery of the first known aperiodic monotile — the “hat” tile.</p>
+    <p>The talk covered the history of tiling theory, the search for an “einstein” shape, and related forms including the turtle and spectre tiles.</p>
+    <p>For mathematics, procedural graphics, generative design, geometry, and computational art audiences.</p>
 
-  <p>
-    The talk covered the history of tiling theory, the search for an “einstein” shape, and related forms including the turtle and spectre tiles.
-  </p>
+    <p><em>Hosted by George Brown College</em></p>
+  </div>
 
-  <p>
-    For mathematics, procedural graphics, generative design, geometry, and computational art audiences.
-  </p>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-sidefx-houdini-20-jeff-wagner.png"
+         alt="SideFX Houdini 20 event with Jeff Wagner"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <p><em>Hosted by George Brown College</em></p>
+    <h3>SideFX Houdini 20: Technical Innovations</h3>
 
-</div>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-sidefx-houdini-20-jeff-wagner.png"
-       alt="SideFX Houdini 20 event with Jeff Wagner"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>New Houdini 20 features and workflows</strong></li>
+      <li><strong>Procedural 3D, VFX, simulation, and technical art</strong></li>
+    </ul>
 
-  <h3>SideFX Houdini 20: Technical Innovations</h3>
+    <p>SideFX Senior Technical Consultant Jeff “Old School” Wagner presented a sneak peek into the technical innovations behind Houdini 20.</p>
+    <p>The session explored new features, design decisions, and implementation work behind one of SideFX’s feature-packed releases.</p>
+    <p>For VFX artists, technical directors, procedural artists, animators, and computer graphics professionals.</p>
 
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
+    <p><em>Presented by SideFX</em></p>
+  </div>
 
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>New Houdini 20 features and workflows</strong></li>
-    <li><strong>Procedural 3D, VFX, simulation, and technical art</strong></li>
-  </ul>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-metavrse-julie-alan-smithson.png"
+         alt="MetaVRse event with Julie Smithson and Alan Smithson"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <p>
-    SideFX Senior Technical Consultant Jeff “Old School” Wagner presented a sneak peek into the technical innovations behind Houdini 20.
-  </p>
+    <h3>MetaVRse: Bringing Metaverse Creation to Everyone</h3>
 
-  <p>
-    The session explored new features, design decisions, and implementation work behind one of SideFX’s feature-packed releases.
-  </p>
+    <p><em>Official Toronto SIGGRAPH Zoom Event</em></p>
 
-  <p>
-    For VFX artists, technical directors, procedural artists, animators, and computer graphics professionals.
-  </p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Low-code 3D and immersive web experiences</strong></li>
+      <li><strong>XR, spatial computing, enterprise learning, and training</strong></li>
+    </ul>
 
-  <p><em>Presented by SideFX</em></p>
+    <p>MetaVRse co-founders Julie Smithson and Alan Smithson joined Toronto SIGGRAPH to discuss their Toronto-based platform for creating and sharing interactive 3D experiences on the web.</p>
+    <p>The session explored immersive technology, enterprise XR, digital transformation, and how metaverse creation tools can support learning, training, and communication at scale.</p>
+    <p>For XR creators, educators, designers, developers, enterprise teams, and spatial computing professionals.</p>
 
-</div>
+    <p><em>Zoom event</em></p>
+  </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-metavrse-julie-alan-smithson.png"
-       alt="MetaVRse event with Julie Smithson and Alan Smithson"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-student-volunteer-siggraph-2024.png"
+         alt="SIGGRAPH 2024 Student Volunteer information session"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <h3>MetaVRse: Bringing Metaverse Creation to Everyone</h3>
+    <h3>SIGGRAPH 2024 Student Volunteer Program</h3>
 
-  <p><em>Official Toronto SIGGRAPH Zoom Event</em></p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>Low-code 3D and immersive web experiences</strong></li>
-    <li><strong>XR, spatial computing, enterprise learning, and training</strong></li>
-  </ul>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Careers in VFX, animation, gaming, and CG</strong></li>
+      <li><strong>Behind-the-scenes access to the SIGGRAPH conference</strong></li>
+    </ul>
 
-  <p>
-    MetaVRse co-founders Julie Smithson and Alan Smithson joined Toronto SIGGRAPH to discuss their Toronto-based platform for creating and sharing interactive 3D experiences on the web.
-  </p>
+    <p>Victoria Lofaro, Communications Lead for the SIGGRAPH Student Volunteer Subcommittee (SVSC), joined Toronto SIGGRAPH to discuss how students can get involved with SIGGRAPH 2024 in Denver.</p>
+    <p>The session explored the Student Volunteer program, conference experiences, networking opportunities, and pathways into computer graphics, interactive media, and entertainment industries.</p>
+    <p>For students, emerging artists, technical directors, developers, researchers, and future computer graphics professionals.</p>
 
-  <p>
-    The session explored immersive technology, enterprise XR, digital transformation, and how metaverse creation tools can support learning, training, and communication at scale.
-  </p>
+    <p><em>Featuring past SIGGRAPH Student Volunteers</em></p>
+  </div>
 
-  <p>
-    For XR creators, educators, designers, developers, enterprise teams, and spatial computing professionals.
-  </p>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-autodesk-maya-25-anniversary.png"
+         alt="Autodesk Maya 25th Anniversary Toronto SIGGRAPH event"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <p><em>Zoom event due to venue booking conflict</em></p>
+    <h3>Autodesk Maya 25th Anniversary Celebration</h3>
 
-</div>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-student-volunteer-siggraph-2024.png"
-       alt="SIGGRAPH 2024 Student Volunteer information session"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>25 years of Maya in film, animation, and VFX</strong></li>
+      <li><strong>Autodesk Toronto studio visit and community celebration</strong></li>
+    </ul>
 
-  <h3>SIGGRAPH 2024 Student Volunteer Program</h3>
+    <p>Toronto SIGGRAPH joined Autodesk to celebrate the 25th Anniversary of Maya 1.0 with a special community event at Autodesk’s Toronto headquarters.</p>
+    <p>The session highlighted the history and evolution of Maya, the Oscar-winning 3D software used in countless films, games, animation projects, and visual effects pipelines around the world.</p>
+    <p>For animators, VFX artists, technical directors, game developers, students, and computer graphics professionals.</p>
 
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
+    <p><em>Hosted by Autodesk Toronto</em></p>
+  </div>
 
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>Careers in VFX, animation, gaming, and CG</strong></li>
-    <li><strong>Behind-the-scenes access to the SIGGRAPH conference</strong></li>
-  </ul>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-wefx-houdini-cabinet-of-curiosities.png"
+         alt="WeFX Studio Houdini effects presentation"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <p>
-    Victoria Lofaro, Communications Lead for the SIGGRAPH Student Volunteer Subcommittee (SVSC), joined Toronto SIGGRAPH to discuss how students can get involved with SIGGRAPH 2024 in Denver.
-  </p>
+    <h3>WeFX Studio: Houdini FX for Cabinet of Curiosities</h3>
 
-  <p>
-    The session explored the Student Volunteer program, conference experiences, networking opportunities, and pathways into computer graphics, interactive media, and entertainment industries.
-  </p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-  <p>
-    For students, emerging artists, technical directors, developers, researchers, and future computer graphics professionals.
-  </p>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Advanced Houdini FLIP, VDB, RBD, and Vellum workflows</strong></li>
+      <li><strong>Netflix VFX production techniques and creature effects</strong></li>
+    </ul>
 
-  <p><em>Featuring past SIGGRAPH Student Volunteers</em></p>
+    <p>WeFX Studio shared advanced Houdini techniques used in Netflix’s <em>Guillermo del Toro’s Cabinet of Curiosities</em>, focusing on lotion simulation and disintegration effects for key characters.</p>
+    <p>The presentation explored goo simulations using FLIP and VDB workflows, deforming animated character meshes, and destruction pipelines combining Houdini’s RBD and Vellum toolsets.</p>
+    <p>For FX artists, technical directors, Houdini users, VFX students, procedural artists, and computer graphics professionals.</p>
 
-</div>
+    <p><em>Presented by WeFX Studios</em></p>
+  </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-autodesk-maya-25-anniversary.png"
-       alt="Autodesk Maya 25th Anniversary Toronto SIGGRAPH event"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-yulio-vr-ar-cad-workflows.png"
+         alt="Yulio Technologies AR VR CAD event"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <h3>Autodesk Maya 25th Anniversary Celebration</h3>
+    <h3>Yulio Technologies: CAD to AR/VR Workflows</h3>
 
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>25 years of Maya in film, animation, and VFX</strong></li>
-    <li><strong>Autodesk Toronto studio visit and community celebration</strong></li>
-  </ul>
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Bringing CAD models into AR and VR experiences</strong></li>
+      <li><strong>3D asset pipelines, rendering, and visualization workflows</strong></li>
+    </ul>
 
-  <p>
-    Toronto SIGGRAPH joined Autodesk to celebrate the 25th Anniversary of Maya 1.0 with a special community event at Autodesk’s Toronto headquarters.
-  </p>
+    <p>Yulio Technologies presented an inside look at the challenges and opportunities involved in transforming CAD and DCC assets into interactive AR and VR experiences.</p>
+    <p>Ian Hall, Chief Product Officer, and Lev Faynshteyn, Head of R&amp;D, discussed rendering pipelines, optimization techniques, and enterprise visualization workflows used across architecture, design, and manufacturing industries.</p>
+    <p>For technical artists, XR developers, visualization professionals, engineers, designers, and computer graphics students.</p>
 
-  <p>
-    The session highlighted the history and evolution of Maya, the Oscar-winning 3D software used in countless films, games, animation projects, and visual effects pipelines around the world.
-  </p>
+    <p><em>Hosted at the Bahen Centre for Information Technology</em></p>
+  </div>
 
-  <p>
-    For animators, VFX artists, technical directors, game developers, students, and computer graphics professionals.
-  </p>
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-dell-technologies-tom-burns-cloud-rendering-ai.png"
+         alt="Dell Technologies event with Tom Burns"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
-  <p><em>Hosted by Autodesk Toronto</em></p>
+    <h3>Dell Technologies: Cloud, Rendering, AI and Edge</h3>
 
-</div>
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-wefx-houdini-cabinet-of-curiosities.png"
-       alt="WeFX Studio Houdini effects presentation"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Real-time rendering, virtual production, and cloud infrastructure</strong></li>
+      <li><strong>AI sampling models, object stores, and edge networking</strong></li>
+    </ul>
 
-  <h3>WeFX Studio: Houdini FX for Cabinet of Curiosities</h3>
+    <p>Tom Burns, UDS Field CTO at Dell Technologies, joined Toronto SIGGRAPH for a technical discussion on modern infrastructure for media, rendering, and emerging production workflows.</p>
+    <p>The talk explored whether cloud simply means virtualization, along with trends in real-time rendering, virtual production, AI/statistical sampling models, and federated global namespaces.</p>
+    <p>For VFX technologists, rendering specialists, technical directors, infrastructure teams, cloud architects, and computer graphics professionals.</p>
 
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
-
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>Advanced Houdini FLIP, VDB, RBD, and Vellum workflows</strong></li>
-    <li><strong>Netflix VFX production techniques and creature effects</strong></li>
-  </ul>
-
-  <p>
-    WeFX Studio shared advanced Houdini techniques used in Netflix’s <em>Guillermo del Toro’s Cabinet of Curiosities</em>, focusing on lotion simulation and disintegration effects for key characters.
-  </p>
-
-  <p>
-    The presentation explored goo simulations using FLIP and VDB workflows, deforming animated character meshes, and destruction pipelines combining Houdini’s RBD and Vellum toolsets.
-  </p>
-
-  <p>
-    For FX artists, technical directors, Houdini users, VFX students, procedural artists, and computer graphics professionals.
-  </p>
-
-  <p><em>Presented by WeFX Studios</em></p>
+    <p><em>Presented by Dell Technologies</em></p>
+  </div>
 
 </div>
 
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-yulio-vr-ar-cad-workflows.png"
-       alt="Yulio Technologies AR VR CAD event"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
-
-  <h3>Yulio Technologies: CAD to AR/VR Workflows</h3>
-
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
-
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>Bringing CAD models into AR and VR experiences</strong></li>
-    <li><strong>3D asset pipelines, rendering, and visualization workflows</strong></li>
-  </ul>
+<footer style="margin-top: 48px; padding-top: 24px; border-top: 1px solid #ddd; font-size: 14px; color: #555; line-height: 1.6;">
 
   <p>
-    Yulio Technologies presented an inside look at the challenges and opportunities involved in transforming CAD and DCC assets into interactive AR and VR experiences.
+    <strong>Interested in speaking, hosting, or partnering with Toronto ACM SIGGRAPH?</strong><br>
+    We welcome conversations with people working in computer graphics, animation, VFX, games, visualization, interactive media, and emerging technology.
   </p>
 
   <p>
-    Ian Hall, Chief Product Officer, and Lev Faynshteyn, Head of R&amp;D, discussed rendering pipelines, optimization techniques, and enterprise visualization workflows used across architecture, design, and manufacturing industries.
+    <a href="/">Home</a> &nbsp;|&nbsp;
+    <strong>Events</strong> &nbsp;|&nbsp;
+    <a href="/about/">About</a>
   </p>
 
   <p>
-    For technical artists, XR developers, visualization professionals, engineers, designers, and computer graphics students.
+    Toronto ACM SIGGRAPH connects the local computer graphics and interactive media community through talks, meetups, screenings, workshops, and industry events.
   </p>
 
-  <p><em>Hosted at the Bahen Centre for Information Technology</em></p>
-
-</div>
-
-<div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
-  <img src="/images/toronto-siggraph-dell-technologies-tom-burns-cloud-rendering-ai.png"
-       alt="Dell Technologies event with Tom Burns"
-       style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
-
-  <h3>Dell Technologies: Cloud, Rendering, AI and Edge</h3>
-
-  <p><em>Official Toronto SIGGRAPH Event</em></p>
-
-  <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-    <li><strong>Real-time rendering, virtual production, and cloud infrastructure</strong></li>
-    <li><strong>AI sampling models, object stores, and edge networking</strong></li>
-  </ul>
-
-  <p>
-    Tom Burns, UDS Field CTO at Dell Technologies, joined Toronto SIGGRAPH for a technical discussion on modern infrastructure for media, rendering, and emerging production workflows.
-  </p>
-
-  <p>
-    The talk explored whether cloud simply means virtualization, along with trends in real-time rendering, virtual production, AI/statistical sampling models, and federated global namespaces.
-  </p>
-
-  <p>
-    For VFX technologists, rendering specialists, technical directors, infrastructure teams, cloud architects, and computer graphics professionals.
-  </p>
-
-  <p><em>Presented by Dell Technologies</em></p>
-
-</div>
-
-
-</div>
+</footer>
