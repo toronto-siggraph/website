@@ -383,7 +383,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   <p>
     <strong>Home</strong> &nbsp;|&nbsp;
-    <a href="/events/">Events</a> &nbsp;|&nbsp;
+    <a href="/meetups/">Meetups</a> &nbsp;|&nbsp;
     <a href="/about/">About</a>
   </p>
 
