@@ -328,6 +328,46 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 
+   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-matt-panousis-lipdub-lipsynch-video-ai.png" alt="Toronto SIGGRAPH event"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+    <h3>Toronto's LipDub.ai and SpaceFlux</h3>
+
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>AI-powered lip sync and video workflows</strong></li>
+      <li><strong>Indie game development and creative technology</strong></li>
+    </ul>
+
+    <p>LipDub.ai presented audio-driven AI/ML lip sync rendering for video workflows.</p>
+    <p>Indie developer Calin Ardelean shared the creative and technical process behind SpaceFlux.</p>
+    <p>For computer graphics, AI media, game development, and interactive technology audiences.</p>
+
+    <p><em>Hosted by George Brown College</em></p>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+    <img src="/images/toronto-siggraph-holiday-gathering-2025.png" alt="Toronto SIGGRAPH holiday gathering"
+         style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
+
+    <h3>Toronto SIGGRAPH Community Holiday Gathering 2025</h3>
+
+    <p><em>Official Toronto SIGGRAPH Event</em></p>
+
+    <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
+      <li><strong>Toronto computer graphics community gathering</strong></li>
+      <li><strong>VFX, animation, games, and interactive media networking</strong></li>
+    </ul>
+
+    <p>A casual gathering for Toronto’s computer graphics, VFX, animation, and interactive media community.</p>
+    <p>The event brings members together to reconnect, meet new people, and close out the year.</p>
+    <p>For SIGGRAPH members, students, creators, researchers, and local industry professionals.</p>
+
+    <p><em>Hosted by Toronto ACM SIGGRAPH</em></p>
+  </div>
+
 </div>
 
 <div style="margin-top: 28px;">
