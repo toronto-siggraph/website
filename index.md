@@ -5,7 +5,7 @@ title: Toronto SIGGRAPH Home
 
 <nav style="text-align: right; margin-bottom: 16px; line-height: 1.8;">
   <strong>Home</strong> &nbsp;|&nbsp;
-  <a href="/events/">Events</a> &nbsp;|&nbsp;
+  <a href="/meetups/">Meetups</a> &nbsp;|&nbsp;
   <a href="/about/">About</a>
 </nav>
 
