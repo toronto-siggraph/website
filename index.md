@@ -240,7 +240,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 <div class="coming-soon-card"
      style="border: 0px solid #ddd; border-radius: 32px; padding: 4px; margin-top: 4px;">
 
-  <h2 style="font-size: 32px; line-height: 1.1; margin: 0 0 20px 0;">
+  <h2 style="font-size: 24px; line-height: 1.1; margin: 0 0 20px 0;">
     ... still rendering ...
   </h2>
 
