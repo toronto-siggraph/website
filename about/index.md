@@ -227,7 +227,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
 
     <p>Rock Jethwa is Vice Chair of Toronto ACM SIGGRAPH and a Toronto-based CX, UX, and Service Design professional with experience spanning enterprise digital transformation projects for Fortune 500 companies and government.</p>
     <p>His early work included contributions to Apple’s internet and browser initiatives during the early growth of the web, along with pioneering 3D graphics and digital heritage projects involving artifact scanning for the Vatican and one of the first digital 3D recreations of the Roman Colosseum.</p>
-    <p>Rock remains passionate about building creative technology communities in Toronto and beyond.</p>
+    <p>Rock holds 20+ patents across UI, AI, chatbots, IoT, and eCommerce payments from his work on digital transformation innovation teams. Rock remains passionate about building creative technology communities in Toronto and beyond.</p>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
