@@ -226,7 +226,7 @@ title: Toronto SIGGRAPH Home
 </script>
 
 <h1 style="font-family: 'Arial Black', Arial, Helvetica, sans-serif; font-size: 28px; line-height: 1.15; margin-top: 0;">
-  Computer graphics. Interactive media. Emerging technology.<br>
+  Computer graphics. Interactive media. Emerging technology.
   <span style="font-weight: 900; text-transform: uppercase;">Community.</span>
 </h1>
 
