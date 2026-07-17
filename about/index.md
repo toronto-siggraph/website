@@ -201,9 +201,8 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/bio-hans-avatar-square.png" alt="Hans Bathija" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
-    <h3>Hans Bathija</h3>
-    <p>Chair</p>
-
+    <h3>Hans Bathija, Chair</h3>
+    
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Computer graphics and emerging technology leadership</strong></li>
       <li><strong>Toronto creative technology community building</strong></li>
@@ -217,8 +216,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <div id="rock-jethwa" style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/bio-rock-avatar-square.png" alt="Rock Jethwa" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
-    <h3>Rock Jethwa</h3>
-    <p>Vice Chair</p>
+    <h3>Rock Jethwa, Vice Chair</h3>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Enterprise AI transformation, CX, UX, and interactive media systems</strong></li>
@@ -233,8 +231,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/bio-jose-avatar-square.png" alt="Jose Carlos Bringas" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
-    <h3>Jose Carlos Bringas</h3>
-    <p>Secretary</p>
+    <h3>Jose Carlos Bringas, Secretary</h3>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Creative technology and organizational coordination</strong></li>
@@ -249,8 +246,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/bio-alain-avatar-square.png" alt="Alain Chesnais" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
-    <h3>Alain Chesnais</h3>
-    <p>Treasurer, Chair Emeritus</p>
+    <h3>Alain Chesnais, Treasurer and Chair Emeritus</h3>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>International SIGGRAPH leadership and community building</strong></li>
