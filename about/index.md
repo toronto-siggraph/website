@@ -214,7 +214,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <p>Originally from London, England and now based in Toronto, Hans has served in leadership roles across numerous civic, cultural, and professional organizations, helping build connections between technology, creativity, public service, and community engagement.</p>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
+  <div id="rock-jethwa" style="border: 1px solid #ddd; border-radius: 8px; padding: 24px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/bio-rock-avatar-square.png" alt="Rock Jethwa" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Rock Jethwa</h3>
