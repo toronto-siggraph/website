@@ -202,7 +202,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <img src="/images/bio-hans-avatar-square.png" alt="Hans Bathija" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Hans Bathija</h3>
-    <p><em>Chair</em></p>
+    <p>Chair</p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Computer graphics and emerging technology leadership</strong></li>
@@ -218,7 +218,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <img src="/images/bio-rock-avatar-square.png" alt="Rock Jethwa" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Rock Jethwa</h3>
-    <p><em>Vice Chair</em></p>
+    <p>Vice Chair</p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Enterprise AI transformation, CX, UX, and interactive media systems</strong></li>
@@ -234,7 +234,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <img src="/images/bio-jose-avatar-square.png" alt="Jose Carlos Bringas" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Jose Carlos Bringas</h3>
-    <p><em>Secretary</em></p>
+    <p>Secretary</p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>Creative technology and organizational coordination</strong></li>
@@ -250,7 +250,7 @@ The Toronto chapter is part of ACM SIGGRAPH, the international organization for 
     <img src="/images/bio-alain-avatar-square.png" alt="Alain Chesnais" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; border: 3px solid #fff; box-shadow: 0 3px 14px rgba(0,0,0,0.16); display: block; margin-bottom: 18px;">
 
     <h3>Alain Chesnais</h3>
-    <p><em>Treasurer, Chair Emeritus</em></p>
+    <p>Treasurer, Chair Emeritus</p>
 
     <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
       <li><strong>International SIGGRAPH leadership and community building</strong></li>
