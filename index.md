@@ -236,36 +236,53 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
 <h2>Next Meetup</h2>
 
-<!-- COMING SOON CARD -->
+<!-- NEXT MEETUP: SP STUDIOS VIRTUAL PRODUCTION TOUR -->
+
 <div class="coming-soon-card"
      style="border: 0px solid #ddd; border-radius: 32px; padding: 4px; margin-top: 4px;">
 
   <h2 style="font-size: 24px; line-height: 1.1; margin: 0 0 20px 0;">
-    ... still rendering ...
+    Virtual Production Studio Tour at SP Studios
   </h2>
 
   <div class="coming-soon-layout">
 
     <div class="coming-soon-image">
-      <img src="/images/toronto-siggraph-coming-soon-venue.png"
-           alt="Toronto SIGGRAPH coming soon event"
+      <img src="/images/toronto-siggraph-sp-studios.png"
+           alt="Toronto SIGGRAPH Virtual Production Studio Tour at SP Studios with John Balabik"
            style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid #ddd;">
     </div>
 
     <div class="coming-soon-copy">
 
-      <p style="margin-top: 0;"><em>Community / Partner Event</em></p>
+      <p style="margin-top: 0;"><em>Toronto SIGGRAPH Event / Studio Tour</em></p>
 
       <ul style="margin-top: 0; margin-bottom: 16px; padding-left: 20px;">
-        <li><strong>New event announcement coming soon</strong></li>
-        <li><strong>Computer graphics and emerging technology community</strong></li>
+        <li><strong>Behind the scenes of virtual production</strong></li>
+        <li><strong>Computer graphics, real-time technology, and filmmaking</strong></li>
       </ul>
 
-      <p>Toronto ACM SIGGRAPH is preparing the next community meetup and speaker announcement.</p>
+      <p>Join Toronto ACM SIGGRAPH for a special behind-the-scenes tour of SP Studios, a virtual production facility in Mississauga, hosted by John Balabik.</p>
 
-      <p>The chapter connects professionals, students, researchers, artists, and technologists across the GTA.</p>
+      <p>Explore the world of virtual production and how computer graphics and emerging technologies are transforming filmmaking and digital content creation.</p>
 
-      <p>Updates will be posted here and on the Events page.</p>
+      <p>Connect with fellow professionals, students, artists, filmmakers, and creative technologists from across the GTA.</p>
+
+      <p>
+        <strong>Date:</strong> Thursday, November 26, 2026<br>
+        <strong>Time:</strong> 12:30 p.m. EST<br>
+        <strong>Location:</strong> SP Studios<br>
+        6030 Kestrel Road, Mississauga, Ontario
+      </p>
+
+      <p>
+        <a href="https://www.google.com/maps/search/?api=1&amp;query=6030+Kestrel+Road+Mississauga+Ontario"
+           target="_blank" rel="noopener noreferrer">
+          <strong>View location on Google Maps &rarr;</strong>
+        </a>
+      </p>
+
+      <p><em>Hosted by John Balabik, SP Studios</em></p>
 
     </div>
 
@@ -328,7 +345,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
 
   </div>
 
-   <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; height: 100%;">
     <img src="/images/toronto-siggraph-matt-panousis-lipdub-lipsynch-video-ai.png" alt="Toronto SIGGRAPH event"
          style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; margin-bottom: 12px;">
 
