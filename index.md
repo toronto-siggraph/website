@@ -262,7 +262,7 @@ Toronto ACM SIGGRAPH events bring together people working in computer graphics, 
         <li><strong>Computer graphics, real-time technology, and filmmaking</strong></li>
       </ul>
 
-      <p>Join Toronto ACM SIGGRAPH for a special behind-the-scenes tour of SP Studios, a virtual production facility in Mississauga, hosted by John Balabik.</p>
+      <p>Join Toronto ACM SIGGRAPH for a special behind-the-scenes tour of SP Studios, a  virtual production facility in Mississauga, hosted by John Balabik.</p>
 
       <p>Explore the world of virtual production and how computer graphics and emerging technologies are transforming filmmaking and digital content creation.</p>
 
